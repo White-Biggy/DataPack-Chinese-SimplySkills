@@ -46,7 +46,7 @@
 [Curseforge-sheild]:https://img.shields.io/badge/890301-0?logo=Curseforge&label=Curseforge&color=blue
 [Curseforge]:https://www.curseforge.com/minecraft/mc-mods/simply-skills
 [datapackinfo-sheild]:https://img.shields.io/badge/Translations_Progress-0?logo=Github&label=翻译进度&color=blue
-[sections-sheild]:https://img.shields.io/badge/Files_Progress-0?logo=Github&label=文件进度&color=blue
+[sections-sheild]:https://img.shields.io/badge/Files_Name-0?logo=Github&label=文件名称&color=blue
 [link-tree]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/tree
 [link-be]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/berserker
 [link-cl]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/cleric
