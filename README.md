@@ -7,7 +7,7 @@
 |![sections-sheild]|![datapackinfo-sheild]|
 |:----:|:----:|
 |tree|[✅][link-tree]|
-|berserker|[⭕][link-be]|
+|berserker|[⚪][link-be]|
 |cleric|[⭕][link-cl]|
 |crusader|[⭕][link-cr]|
 |ranger|[⭕][link-ra]|
@@ -15,6 +15,11 @@
 |spellblade|[⭕][link-sp]|
 |wizard|[⭕][link-wi]|
 |book-items|[✅][link-bi]|
+
+### 我会在即将施工或者汉化完毕的文件里放入README文件，
+### 以便更好地检查汉化状态，如若没有，则无施工计划。
+### 无计划的项目可以由任何人认领，下载源码文件即可。
+### ⭕表示未汉化，⚪表示即将施工，✅表示已完成。
 
 </div>
 
