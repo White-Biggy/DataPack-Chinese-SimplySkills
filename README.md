@@ -1,5 +1,5 @@
 # Simply Skill 的中文数据包库
-### 该数据包需要 Simply Skills 模组， 而且该包仅仅只有翻译功能。
+### 该数据包需要 Simply Skills 模组，包含模组的技能数据和中文汉化。
 
 ****
 <div align="center">
