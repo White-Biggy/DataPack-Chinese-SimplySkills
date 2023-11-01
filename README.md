@@ -21,6 +21,7 @@
 ### 无计划的项目可以由任何人认领，下载源码文件即可。
 ### 点击任意项目状态的emoji符号可以进入其文件夹内哦！
 ### ⭕表示未汉化，⚪表示即将施工，✅表示已完成。
+### 数据包 release [链接][release]
 
 </div>
 
@@ -55,3 +56,4 @@
 [link-sp]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/spellblade
 [link-wi]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/wizard
 [link-bi]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/Localization
+[release]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/releases/tag/1.0.0
