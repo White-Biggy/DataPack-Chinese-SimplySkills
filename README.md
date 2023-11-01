@@ -18,7 +18,7 @@
 
 ### 我会在即将施工或者汉化完毕的文件里放入README文件，
 ### 以便更好地检查汉化状态，如若没有，则无施工计划。
-### 无计划的项目可以由任何人认领，下载源码文件即可。
+### 无计划的项目可以由任何人认领，在[问题][Issue]中创建一个认领项目的帖子即可。
 ### 点击任意项目状态的emoji符号可以进入其文件夹内哦！
 ### ⭕表示未汉化，⚪表示即将施工，✅表示已完成。
 ### 数据包 release [链接][release]
@@ -57,3 +57,4 @@
 [link-wi]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/wizard
 [link-bi]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/Localization
 [release]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/releases/tag/1.0.0
+[Issue]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/issues
