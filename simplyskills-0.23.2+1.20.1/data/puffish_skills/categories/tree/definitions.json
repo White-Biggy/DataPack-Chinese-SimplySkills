@@ -1,0 +1,2731 @@
+{
+    "pathWayfarer": {
+        "title": "分 支 - §b冒 险 家",
+        "description": "§a+10% §f[x]§7 移动速度",
+        "frame": "challenge",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_path.png"
+            }
+        }
+    },
+    "pathInitiate": {
+        "title": "分 支 - §b魔 法 学 徒§7",
+        "description": "§a+1§7 所有类型的魔法伤害",
+        "frame": "challenge",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_path.png"
+            }
+        }
+    },
+    "spell_fire_damage_additive+1%": {
+        "title": "§a+1%§f [+] §7火焰法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_fire_damage_add.png"
+            }
+        }
+    },
+    "spell_fire_damage_multi+1%": {
+        "title": "§a+1% §f[x] §7火焰法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_fire_damage_multi.png"
+            }
+        }
+    },
+    "spell_arcane_damage_additive+1%": {
+        "title": "§a+1%§f [+] §7奥术法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_arcane_damage_add.png"
+            }
+        }
+    },
+    "spell_arcane_damage_multi+1%": {
+        "title": "§a+1% §f[x] §7奥术法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_arcane_damage_multi.png"
+            }
+        }
+    },
+    "spell_frost_damage_additive+1%": {
+        "title": "§a+1% §f[+] §7冰霜法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_frost_damage_add.png"
+            }
+        }
+    },
+    "spell_frost_damage_multi+1%": {
+        "title": "§a+1% §f[x] §7F冰霜法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_frost_damage_multi.png"
+            }
+        }
+    },
+    "spell_healing_power_additive+1%": {
+        "title": "§a+1% §f[+] §7治疗法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_healing_power_add.png"
+            }
+        }
+    },
+    "spell_healing_power_multi+1%": {
+        "title": "§a+1% §f[x] §7治疗法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_healing_power_multi.png"
+            }
+        }
+    },
+    "spell_lightning_damage_additive+1%": {
+        "title": "§a+1%§f [+] §7闪电法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_lightning_damage_add.png"
+            }
+        }
+    },
+    "spell_lightning_damage_multi+1%": {
+        "title": "§a+1% §f[x] §7闪电法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_lightning_damage_multi.png"
+            }
+        }
+    },
+    "spell_soul_damage_additive+1%": {
+        "title": "§a+1% §f[+] §7灵魂法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_soul_damage_add.png"
+            }
+        }
+    },
+    "spell_soul_damage_multi+1%": {
+        "title": "§a+1% §f[x] §7灵魂法术强度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_soul_damage_multi.png"
+            }
+        }
+    },
+    "spell_crit_damage_additive+1%": {
+        "title": "§a+2% §f[+] §7法术暴击伤害",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_crit_damage_add.png"
+            }
+        }
+    },
+    "spell_crit_damage_multi+1%": {
+        "title": "§a+1%§f [x] §7法术暴击伤害",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_crit_damage_multi.png"
+            }
+        }
+    },
+    "spell_crit_chance_additive+1%": {
+        "title": "§a+1% §f[+] §7法术暴击几率",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_crit_chance_add.png"
+            }
+        }
+    },
+    "spell_crit_chance_multi+1%": {
+        "title": "§a+1% §f[x] §7法术暴击几率",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_crit_chance_multi.png"
+            }
+        }
+    },
+    "spell_haste_additive+1%": {
+        "title": "§a+1% §f[+] §7法术急速",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_haste_add.png"
+            }
+        }
+    },
+    "spell_haste_multi+1%": {
+        "title": "§a+1% §f[x] §7法术急速",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spell_haste_multi.png"
+            }
+        }
+    },
+    "pathWarrior": {
+        "title": "分 支 - §b战 士§7",
+        "description": "§a+8%§f [x] §7Melee Damage",
+        "frame": "challenge",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_path.png"
+            }
+        }
+    },
+    "health+2": {
+        "title": "§a+1 §7红心",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/health.png"
+            }
+        }
+    },
+    "resistance+1%": {
+        "title": "§a+1% §f[+] §7伤害抗性",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/resistance.png"
+            }
+        }
+    },
+    "resistance_multi+2%": {
+        "title": "§a+2% §f[x] §7伤害抗性",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/resistance_multi.png"
+            }
+        }
+    },
+    "melee_damage+1%": {
+        "title": "§a+1% §f[+] §7近战伤害",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/attackdamage.png"
+            }
+        }
+    },
+    "melee_damage_multi+2%": {
+        "title": "§a+2% §f[x] §7近战伤害",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/attackdamage_multi.png"
+            }
+        }
+    },
+    "ranged_damage+1%": {
+        "title": "§a+1% §f[+] §7远程伤害",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rangeddamage.png"
+            }
+        }
+    },
+    "ranged_damage_multi+2%": {
+        "title": "§a+2% §f[x] §7远程伤害",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rangeddamage_multi.png"
+            }
+        }
+    },
+    "attack_speed+1%": {
+        "title": "§a+1% §f[+] §7攻击速度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/attackspeed.png"
+            }
+        }
+    },
+    "attack_speed_multi+2%": {
+        "title": "§a+2% §f[x] §7攻击速度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/attackspeed_multi.png"
+            }
+        }
+    },
+    "movement_speed+1%": {
+        "title": "§a+1% §f[+] §7移动速度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/movementspeed.png"
+            }
+        }
+    },
+    "movement_speed_multi+1.5%": {
+        "title": "§a+1.5% §f[x] §7移动速度",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/movementspeed_multi.png"
+            }
+        }
+    },
+    "luck+0.25": {
+        "title": "§a+0.25 §7幸运",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/luck.png"
+            }
+        }
+    },
+    "stamina+5%": {
+        "title": "§a+5% §f[+] §7饥饿值",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/stamina.png"
+            }
+        }
+    },
+    "stamina_multi+7%": {
+        "title": "§a+7% §f[x] §7饥饿值",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/stamina_multi.png"
+            }
+        }
+    },
+    "healing+1%": {
+        "title": "§a+1% §7Healing [DEPRECATED]",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/healing.png"
+            }
+        }
+    },
+    "jump+1%": {
+        "title": "§a+1% §f[+] §7跳跃力",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/jump.png"
+            }
+        }
+    },
+    "jump_multi+2%": {
+        "title": "§a+2%§f [x] §7跳跃力",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/jump_multi.png"
+            }
+        }
+    },
+    "hardy": {
+        "title": "§7§a[坚韧]§7\n受到伤害时，获得等同于所受伤害持续时间的再生效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/hardy.png"
+            }
+        }
+    },
+    "initiateSlowfall": {
+        "title": "§7§a[先天性缓降]§7",
+        "description": "§7当你从高处坠落时，你会获得缓降效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_slowfall.png"
+            }
+        }
+    },
+    "fervour": {
+        "title": "§7§a[热忱]§7",
+        "description": "§7击杀敌人后，你会短暂获得急速效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/fervour.png"
+            }
+        }
+    },
+    "wayfarerStealth": {
+        "title": "§7§a[隐匿]§7",
+        "description": "蹲下时获得隐匿效果。\n\n§f(隐匿)§7使你融入阴影中，完全避开怪物的侦测。造成伤害或受到伤害会移除隐匿效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_stealth.png"
+            }
+        }
+    },
+    "wayfarerSneak": {
+        "title": "§7§a[潜行]§7",
+        "description": "蹲下时获得速度提升。当你处于隐匿状态时潜行，你会获得逐渐增加的力量层数。\n\n§f(力量)§7每层提供25%的攻击伤害增加。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_sneak.png"
+            }
+        }
+    },
+    "wayfarerReflexive": {
+        "title": "§7§a[反射]§7",
+        "description": "当你的隐匿被强制破除时，你有机会触发盗贼闪避大师的特性技能。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_reflexive.png"
+            }
+        }
+    },
+    "wayfarerUnseen": {
+        "title": "§7§a[隐形]§7",
+        "description": "§7在装填弩时，获得短暂的隐匿效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_unseen.png"
+            }
+        }
+    },
+    "wayfarerGuarding": {
+        "title": "§7§a[守护]§7",
+        "description": "§7当你的副手持有弩时，你会周期性地获得屏障。\n\n§f(屏障)§7你下一次受到的伤害将被完全抵消。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_guarding.png"
+            }
+        }
+    },
+    "initiateNullification": {
+        "title": "§7§a[破势]§7",
+        "description": "§7周期性地从附近的敌对生物身上移除增益效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_nullification.png"
+            }
+        }
+    },
+    "initiateGambit": {
+        "title": "§7§a[赌注]",
+        "description": "§7你的法术伤害减少25%，但你的法术暴击伤害增加75%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_gambit.png"
+            }
+        }
+    },
+    "initiateEmpower": {
+        "title": "§7§a[强化]§7",
+        "description": "§7施放法术时有几率获得一层共鸣效果。\n\n§f(共鸣)§7 根据法术所属的魔法流派，每层效果提高2%的法术伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_empower.png"
+            }
+        }
+    },
+    "initiateAttuned": {
+        "title": "§7§a[共振]§7",
+        "description": "§7当你拥有5层或以上的共鸣效果时，会定期将它们转化为精准效果。\n\n§f(精准)§7 每层效果提高2%的法术暴击伤害和暴击几率。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_attuned.png"
+            }
+        }
+    },
+    "initiateLightningRod": {
+        "title": "§7§a[避雷针]§7",
+        "description": "§7在风暴期间，你会定期获得一层雷电共鸣效果。\n\n§f(雷电共鸣)§7 每层效果提高2%的雷电法术伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_lightning_rod.png"
+            }
+        }
+    },
+    "initiateEldritchEnfeeblement": {
+        "title": "§7§a[邪念]§7",
+        "description": "§7你的法术伤害提高5%，但你的移动速度降低15%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_eldritch_enfeeblement.png"
+            }
+        }
+    },
+    "initiateHasty": {
+        "title": "§7§a[急躁]§7",
+        "description": "§7你的移动速度提高20%，但当你受到伤害时，你会被施加定身效果。\n\n§f(定身)§7 当受害者试图移动时，会大幅降低速度并造成伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_hasty.png"
+            }
+        }
+    },
+    "initiatePerilousPrecision": {
+        "title": "§7§a[风险]§7",
+        "description": "§7你的法术暴击几率提高5%，但你的最大生命值降低15%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_perilous_precision.png"
+            }
+        }
+    },
+    "cleric": {
+        "title": "§7§a[神圣]§7",
+        "description": "§7定期清除附近盟友身上的负面效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric.png"
+            }
+        }
+    },
+    "cleansing": {
+        "title": "§7§a[净化]§7",
+        "description": "§7定期清除自身的负面效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleanse.png"
+            }
+        }
+    },
+    "rangerReveal": {
+        "title": "§7§a[揭示]§7",
+        "description": "§7定期揭示附近的隐身敌人。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_reveal.png"
+            }
+        }
+    },
+    "rangerTamer": {
+        "title": "§7§a[驯兽师]§7",
+        "description": "§7当你的宠物靠近你时，它们会获得再生和抗性效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_tamer.png"
+            }
+        }
+    },
+    "rangerBonded": {
+        "title": "§7§a[羁绊]§7",
+        "description": "§7当你的宠物在你附近，并且它们的健康状况比你好时，它们会与你交换健康值。只有当你的宠物的生命值高于30%时，这个效果才会触发。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_bonded.png"
+            }
+        }
+    },
+    "rangerTrained": {
+        "title": "§7§a[受训]§7",
+        "description": "§7当你的宠物在你附近，并且至少有70%的生命值时，它们会获得力量和速度的提升。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_trained.png"
+            }
+        }
+    },
+    "rangerIncognito": {
+        "title": "§7§a[隐匿]§7",
+        "description": "§7当你的宠物在你附近并且你获得了隐身效果时，它们也会隐形。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_incognito.png"
+            }
+        }
+    },
+    "rogueBackstab": {
+        "title": "§7§a[背刺]§7",
+        "description": "§7从敌人背后攻击会使他们陷入虚弱状态。\n\n此外，当你接近虚弱的敌人时，你有机会短时间内获得隐身效果",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_backstab.png"
+            }
+        }
+    },
+    "warriorHeavyArmorMastery": {
+        "title": "§7§a[重甲精通]§7",
+        "description": "§7当你的护甲值高于15时，你有几率在受到伤害时获得力量效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_heavy_armor_mastery.png"
+            }
+        }
+    },
+    "warriorMediumArmorMastery": {
+        "title": "§7§a[中甲精通]§7",
+        "description": "§7当你的护甲值低于15时，你有几率在受到伤害时获得吸收效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_medium_armor_mastery.png"
+            }
+        }
+    },
+    "warriorSpellbreaker": {
+        "title": "§7§a[破法者]§7",
+        "description": "§7当你受到伤害时，你有机会短时间内获得破法效果。\n\n§f(破法)§7会使敌方的法术投射物在靠近你时爆炸。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_spellbreaker.png"
+            }
+        }
+    },
+    "warriorGoliath": {
+        "title": "§7§a[巨人]§7",
+        "description": "§7当你从高处坠落时，获得震地者效果。\n\n§f(震地者)§7 使你着地时对周围的敌人造成伤害和击退。这个伤害与你的护甲值成正比。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_earthshaker.png"
+            }
+        }
+    },
+    "warriorHeavyWeight": {
+        "title": "§7§a[重量级]§7",
+        "description": "§7你的震地者效果得到增强，使它们根据你在空中的时间长短造成额外的伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_heavy_weight.png"
+            }
+        }
+    },
+    "warriorBound": {
+        "title": "§7§a[跳跃提升]§7",
+        "description": "§7激活地震者后，你会短时间内获得跳跃提升效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_bound.png"
+            }
+        }
+    },
+    "warriorDeathDefy": {
+        "title": "§7§a[死亡蔑视]§7",
+        "description": "§7当生命值低时，你会根据剩余的生命百分比获得再生和耗竭效果。\n\n§f(耗竭)§7每堆叠一次，你的近战攻击、移动速度和攻击速度都会降低1%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_death_defy.png"
+            }
+        }
+    },
+    "warriorFrenzy": {
+        "title": "§7§a[耗竭]§7",
+        "description": "§7获得75%的近战伤害增加，但每次击中敌人时，你都会获得一层耗竭效果。\n\n§f(耗竭)§7每堆叠一次，你的近战攻击、移动速度和攻击速度都会降低1%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_frenzy.png"
+            }
+        }
+    },
+    "warriorCarnage": {
+        "title": "§7§a[定身]§7",
+        "description": "§7当狂怒或耗竭堆叠达到或超过75层时，获得生命提升和定身光环效果。\n\n§f(定身光环)§7会周期性地使附近的敌人陷入定身状态。\n\n§f(定身)§7大大减慢并在试图移动时对受害者造成伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_carnage.png"
+            }
+        }
+    },
+    "warriorTwinstrike": {
+        "title": "§7§a[多重打击]§7",
+        "description": "§7你的近战攻击有机会打出两次。 在生命提升效果下，这个机会将翻倍。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_twinstrike.png"
+            }
+        }
+    },
+    "warriorSwordfall": {
+        "title": "§7§a[审判]§7",
+        "description": "§7你的近战攻击有机会从天空中召唤一把剑，对你的目标和所有附近的敌人造成伤害。 在力量效果下，这个机会将翻倍。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/warrior_swordfall.png"
+            }
+        }
+    },
+    "berserkerPath": {
+        "title": "分 支 - §b狂战士§7",
+        "description": "\n§7§a[鲁莽]§7 当你的生命值上升到70%以上时，你会被弱化效果影响。\n\n此外，当你造成或接收伤害时，你会获得一层狂怒效果。\n\n§f(狂怒)§7每层提供0.5%的近战伤害、攻击速度和承受伤害增加，最多可以堆叠100层。 当狂怒堆叠超过25层时，你会迅速失去耗竭的堆叠。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7 §b狂战士§7 ，他们被无尽的毁灭欲望驱使，并且完全无视自身的安全。他们是 §a近战战斗§7 的大师，并且喜欢造成毁灭性的伤害，即使这意味着 §a置自己的生命于险境之中§7 。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_path.png"
+            }
+        }
+    },
+    "berserkerSwordMastery": {
+        "title": "§7§a[剑术大师]§7",
+        "description": "§7当你在主手持剑时，你会获得速度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_sword_mastery.png"
+            }
+        }
+    },
+    "berserkerSwordMasteryProficient": {
+        "title": "§7§a[剑术大师 +]§7",
+        "description": "§7当你在主手持剑时，你会获得增强的速度I。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_sword_mastery_proficient.png"
+            }
+        }
+    },
+    "berserkerSwordMasterySkilled": {
+        "title": "§7§a[剑术大师 ++]§7",
+        "description": "§7当你不在双持时，你会获得力量。\n\n§f(力量)§7每层提供25%的攻击伤害增加。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_sword_mastery_skilled.png"
+            }
+        }
+    },
+    "berserkerAxeMastery": {
+        "title": "§7§a[斧类专家]§7",
+        "description": "§7当你在主手持斧时，你会获得力量。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_axe_mastery.png"
+            }
+        }
+    },
+    "berserkerAxeMasteryProficient": {
+        "title": "§7§a[斧类专家 +]§7",
+        "description": "§7当你在主手持斧时，你会获得增强的力量I。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_axe_mastery_proficient.png"
+            }
+        }
+    },
+    "berserkerAxeMasterySkilled": {
+        "title": "§7§a[斧类专家 ++]§7",
+        "description": " §7当你在主手持斧时，你会获得超强的力量II。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_axe_mastery_skilled.png"
+            }
+        }
+    },
+    "berserkerIgnorePain": {
+        "title": "§7§a[不痛不痒]§7",
+        "description": "§7当你的生命值下降到40%以下时，你会获得抗性。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_ignore_pain.png"
+            }
+        }
+    },
+    "berserkerIgnorePainProficient": {
+        "title": "§7§a[不痛不痒 +]§7",
+        "description": "§7当你的生命值下降到40%以下时，你会获得增强的抗性I。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_ignore_pain_proficient.png"
+            }
+        }
+    },
+    "berserkerIgnorePainSkilled": {
+        "title": "§7§a[不痛不痒 ++]§7",
+        "description": "§7当你的生命值下降到40%以下时，你会获得超强的抗性II。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_ignore_pain_skilled.png"
+            }
+        }
+    },
+    "berserkerRecklessness": {
+        "title": "§7§a[鲁莽]§7",
+        "description": "§7当你的生命值上升到70%以上时，你会被弱化效果影响。\n\n此外，当你造成或接收伤害时，你会获得一层狂怒效果。\n\n§f(狂怒)§7每层提供0.5%的近战伤害、攻击速度和承受伤害增加，最多可以堆叠100层。 当狂怒堆叠超过25层时，你会迅速失去耗竭的堆叠。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_recklessness.png"
+            }
+        }
+    },
+    "berserkerChallenge": {
+        "title": "§7§a[挑战]§7",
+        "description": "§7对每个附近的敌人获得一层急速效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_challenge.png"
+            }
+        }
+    },
+    "berserkerExploit": {
+        "title": "§7§a[压榨]§7",
+        "description": "§7击中被定身的敌人会使他们陷入虚弱状态。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_challenge.png"
+            }
+        }
+    },
+    "bulwarkPath": {
+        "title": "分 支 - §bBulwark§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/bulwark_path.png"
+            }
+        }
+    },
+    "bulwarkShieldMastery": {
+        "title": "§7§a[盾牌大师]§7",
+        "description": "§7当你持盾时，你会获得虚弱和抵抗效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/bulwark_shield_mastery.png"
+            }
+        }
+    },
+    "bulwarkShieldMasteryProficient": {
+        "title": "§7§a[盾牌大师 +]§7",
+        "description": "§7当你持盾时，你会获得虚弱和增强的抵抗I效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/bulwark_shield_mastery_proficient.png"
+            }
+        }
+    },
+    "bulwarkShieldMasterySkilled": {
+        "title": "§7§a[盾牌大师 ++]§7",
+        "description": "§7当你持盾时，你会获得虚弱和增强的抵抗II效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/bulwark_shield_mastery_skilled.png"
+            }
+        }
+    },
+    "bulwarkRebuke": {
+        "title": "§7§a[谴责]§7",
+        "description": "§725%的几率在格挡时使攻击者陷入虚弱状态。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/bulwark_rebuke.png"
+            }
+        }
+    },
+    "wayfarerSlender": {
+        "title": "§7§a[脆弱]§7",
+        "description": "§7当你的护甲值达到或超过15时，你会受到缓慢效果的影响。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wayfarer_slender.png"
+            }
+        }
+    },
+    "roguePath": {
+        "title": "分 支 - §b盗 贼§7",
+        "description": "§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7 §bRogue（盗贼）§7 是 §a隐身§7 和诡计的大师。他们在阴影中生存，利用他们出色的技能保持隐身，并用 §a精确打击§7 捉拿他们的敌人。如果在开阔地被发现，他们完全有能力 §a躲避§7 敌人的攻击，并逃回阴影的安全之中。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_path.png"
+            }
+        }
+    },
+    "rogueSmokeBomb": {
+        "title": "§7§a[烟雾弹]§7",
+        "description": "§7被击中时有机会使附近的敌人失明，并获得定身光环。\n\n§f(定身光环)§7会周期性地使附近的敌人陷入定身状态。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_smoke_bomb.png"
+            }
+        }
+    },
+    "rogueOpportunisticMastery": {
+        "title": "§7§a[毒器大师]§7",
+        "description": "§7在隐身效果下攻击会使你的目标短时间内中毒。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_opportunistic_mastery.png"
+            }
+        }
+    },
+    "rogueOpportunisticMasteryProficient": {
+        "title": "§7§a[毒器大师 +]§7",
+        "description": "§7在隐身效果下攻击会使你的目标中等时间内中毒。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_opportunistic_mastery_proficient.png"
+            }
+        }
+    },
+    "rogueOpportunisticMasterySkilled": {
+        "title": "§7§a[毒器大师 ++]§7",
+        "description": "§7在隐身效果下攻击会使你的目标长时间内中毒。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_opportunistic_mastery_skilled.png"
+            }
+        }
+    },
+    "rogueEvasionMastery": {
+        "title": "§7§a[躲闪大师]§7",
+        "description": "§7当护甲值低于猎人的谴责被动技能的阈值时，你有15%的几率完全避开即将到来的伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_evasion_mastery.png"
+            }
+        }
+    },
+    "rogueEvasionMasteryProficient": {
+        "title": "§7§a[躲闪大师 +]§7",
+        "description": "§7当护甲值低于猎人的谴责被动技能的阈值时，你有20%的几率完全避开即将到来的伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_evasion_mastery_proficient.png"
+            }
+        }
+    },
+    "rogueEvasionMasterySkilled": {
+        "title": "§7§a[躲闪大师 ++]§7",
+        "description": "§7当护甲值低于猎人的谴责被动技能的阈值时，你有25%的几率完全避开即将到来的伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_evasion_mastery_skilled.png"
+            }
+        }
+    },
+    "rogueExploitation": {
+        "title": "§7§a[死亡标记]§7",
+        "description": "§7在隐身效果下，你的背部攻击会造成死亡标记。\n\n§f(死亡标记)§7每层减少受害者25%的抗性和治疗效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_exploitation.png"
+            }
+        }
+    },
+    "rogueRecovery": {
+        "title": "§7§a[再生力]§7",
+        "description": "§7当你获得隐身时，你也会获得再生效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_recovery.png"
+            }
+        }
+    },
+    "rogueShadowVeil": {
+        "title": "§7§a[影壳]§7",
+        "description": "§7在隐身效果下，你会周期性地获得增加的抗性。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_shadow_veil.png"
+            }
+        }
+    },
+    "rogueDeflection": {
+        "title": "§7§a[偏转力]§7",
+        "description": "§7当双持武器时 §f(斧头不算)§7，你的闪避大师被动技能的基础闪避几率增加10%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_deflection.png"
+            }
+        }
+    },
+    "rogueFleetfooted": {
+        "title": "§7§a[猫步]§7",
+        "description": "§7当你被强制退出隐身时，你会获得短暂的速度提升。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_fleetfooted.png"
+            }
+        }
+    },
+    "rangerPath": {
+        "title": "分 支 - §b猎 人§7",
+        "description": "\n§7§a[脆弱]§7 当你的护甲值达到或超过15时，你会受到缓慢效果的影响。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7 §b猎人§7 以其无与伦比的 §a弓箭技巧§7 和将 §a元素魔法§7 注入其远程攻击的独特能力而闻名。他们还与他们的 §a动物伙伴§7 建立了深刻的共生关系，使他们成为战场上令人敬畏的力量。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_path.png"
+            }
+        }
+    },
+    "initiateFrail": {
+        "title": "§7§a[蜗牛]§7",
+        "description": "§7当你的护甲值达到或超过10时，你会受到缓慢效果的影响。此外，你无法有效地使用攻击力超过6的武器。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_frail.png"
+            }
+        }
+    },
+    "initiateWhisperedWizardry": {
+        "title": "§7§a[铸法者]§7",
+        "description": "§7在隐身效果下施放法术时，你会获得几层铸法者效果，持续几秒钟。\n\n§f(铸法者)§7每层提供1点法术强度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_whispered_wizardry.png"
+            }
+        }
+    },
+    "initiateSpellcloak": {
+        "title": "§7§a[魔篷]§7",
+        "description": "§7施放法术时，你会获得短暂的隐身效果，只要你当前没有被揭露。\n\n§f(隐身)§7使你融入阴影中，完全避免怪物的侦测。造成或承受伤害会移除隐身效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_spellcloak.png"
+            }
+        }
+    },
+    "initiateOverload": {
+        "title": "§7§a[超载]§7",
+        "description": "§7施放法术时，你会获得一层超载效果，持续短时间。\n\n§f(超载)§7每层提供75%的法术暴击伤害和10%的法术暴击几率。 当超过5层时，你会超载，对自己和附近的敌人造成大量伤害。\n\n这种伤害是根据你的最大生命值和灵魂法术强度来计算的。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/initiate_overload.png"
+            }
+        }
+    },
+    "crusaderPath": {
+        "title": "分 支 - §b圣 骑 士§7",
+        "description": "§e[需要安装 §nPaladins & Priests（圣骑士和牧师）§r§e 模组]§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7 §bCrusader（十字军）§7 ，通常是那些不满足于仅仅 §a保护他们的盟友§7 的人所选择的。他们还努力成为战场上希望的灯塔。他们将 §a治疗者§7 的热情与 §a战士§7 的力量相结合，使他们在 §a进攻和防守§7 方面都是出色的勇士。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_path.png"
+            }
+        }
+    },
+    "frostguardPath": {
+        "title": "分 支 - §b冰 霜 守 卫§7",
+        "description": "\n§e尚未实现§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/frostguard_path.png"
+            }
+        }
+    },
+    "spellbladePath": {
+        "title": "分 支 - §b魔 法 刀 客§7",
+        "description": "\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7 §bSpellblade（魔剑士）§7 是一种多才多艺而又强大的战士，他们无缝地将魔法的力量与武斗相结合。他们的标志是将 §a施法§7 和 §a近战攻击§7 融合在一起，使他们成为战场上非凡的力量。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_path.png"
+            }
+        }
+    },
+    "spellbladeWeaponExpert": {
+        "title": "§7§a[法力祝福]§7",
+        "description": "§7施放法术时，你会获得一层力量效果。偶尔也会获得一层铸法者效果。\n\n§f(力量)§7每层提供25%的攻击伤害增加。\n\n§f(铸法者)§7每层提供1点法术强度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_weapon_expert.png"
+            }
+        }
+    },
+    "spellbladeSpellweaving": {
+        "title": "§7§a[织法]§7",
+        "description": "§7你现在有15%的几率在击中敌人时召唤一个随机法术。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_spellweaving.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalSurge": {
+        "title": "特性技能：§6[元素激流]§7",
+        "description": "\n赋予你15秒的元素激流。\n\n§f(元素激流)§7会让你周期性地释放元素新星。\n\n§a30秒冷却§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_surge.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalSurgeNoFrost": {
+        "title": "§f[移除霜冻]",
+        "description": "§7从你的 §6[元素激流]§7 法术池中移除霜冻新星。 如果法术池中没有剩余的元素，元素激流将会释放奥术新星。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_surge.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalSurgeNoFire": {
+        "title": "§f[移除火焰]",
+        "description": "§7从你的 §6[元素激流]§7 法术池中移除火焰新星。 如果法术池中没有剩余的元素，元素激流将会释放奥术新星。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_surge.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalSurgeRenewal": {
+        "title": "§f[延续力]",
+        "description": "§7在你有 §6[元素激流]§7 的时候击中敌人有15%的几率将其持续时间延长3秒。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_surge.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalSurgeNoLightning": {
+        "title": "§f[移除闪电]",
+        "description": "§7从你的 §6[元素激流]§7 法术池中移除闪电新星。 如果法术池中没有剩余的元素，元素激流将会释放奥术新星。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_surge.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalImpact": {
+        "title": "特性技能：§6[元素冲击]§7",
+        "description": "\n使你以极大的力量向前冲刺，在移动过程中释放元素爆炸。\n\n§a30秒冷却§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_impact.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalImpactMagnet": {
+        "title": "§f[磁吸]",
+        "description": "§7你的 §6[元素冲击]§7 现在会将附近的敌人拉入冲击路径。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_impact.png"
+            }
+        }
+    },
+    "spellbladeSignatureElementalImpactResistance": {
+        "title": "§f[阻力]",
+        "description": "§7你的 §6[元素冲击]§7 现在也会赋予你短暂的抵抗。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_elemental_impact.png"
+            }
+        }
+    },
+    "spellbladeSignatureSpellweaver": {
+        "title": "特性技能：§6[织法者]§7",
+        "description": "\n使你的织法被动技能的触发几率在25秒内翻倍。\n\n§a40秒冷却§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_spellweaver.png"
+            }
+        }
+    },
+    "spellbladeSignatureSpellweaverHaste": {
+        "title": "§f[急速]",
+        "description": "§7你的织法触发现在会给你5秒的急速效果，最多可以叠加5层。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_spellweaver.png"
+            }
+        }
+    },
+    "spellbladeSignatureSpellweaverRegeneration": {
+        "title": "§f[回复力]",
+        "description": "§7你的织法触发现在有50%的几率给你5秒的回复效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/spellblade_signature_spellweaver.png"
+            }
+        }
+    },
+    "wizardPath": {
+        "title": "分 支 - §b巫 师§7",
+        "description": "\n§7§a[虚弱]§7\n当你有10点或以上的护甲时，你会受到缓慢效果。而且，你不能有效地使用超过6点攻击力的武器。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7§b巫师§7专精是为那些寻求掌握魔法力量的人准备的。他们是无情而破坏性的§a施法者§7，能够向敌人释放灾难性的魔法能量。然而，他们对奥术力量的贪婪使他们§a忽视了自己的肉体形态§7，削弱了他们的防御和物理攻击能力。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_path.png"
+            }
+        }
+    },
+    "shamanPath": {
+        "title": "分 支 - §b萨 鲁 曼§7",
+        "description": "\n§e尚未实现§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/shaman_path.png"
+            }
+        }
+    },
+    "clericPath": {
+        "title": "分 支 - §b牧 师§7",
+        "description": "\n§e[需要安装 §n圣骑士与牧师§r§e 模组]§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "extra_description": "\n§7选择了§b牧师§7专精的人以他们对保护和培育盟友的坚定承诺而闻名。他们拥有一种独特的结合了§a治疗§7、§a支援§7和能够为他们所保护者§a承担负担§7的能力。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_path.png"
+            }
+        }
+    },
+    "necromancerPath": {
+        "title": "分 支 - §b死 灵 法 师§7",
+        "description": "\n§e尚未实现§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/necromancer_path.png"
+            }
+        }
+    },
+    "wizardPassiveSpellEcho": {
+        "title": "§7§a[法术回响]§7",
+        "description": "§7你的法术命中有一定几率产生回响，对目标施放一个额外的随机法术。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_spell_echo.png"
+            }
+        }
+    },
+    "wizardSignatureMeteorShower": {
+        "title": "特性技能: §6[流星雨]§7",
+        "description": "§7\n在附近的敌人头上召唤流星。\n\n§a40秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_meteor_shower.png"
+            }
+        }
+    },
+    "wizardSignatureMeteorShowerGreater": {
+        "title": "§f[星之强化]§7",
+        "description": "§7§6[流星雨]§7现在召唤一个更大的流星，对更大范围内的敌人造成更高的伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_meteor_shower.png"
+            }
+        }
+    },
+    "wizardSignatureMeteorShowerWrath": {
+        "title": "§f[星怒]",
+        "description": "§7施放§6[流星雨]§7现在会给你10层流星之怒效果。\n\n§f(流星之怒)§7会定期在附近的敌人头上召唤流星。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_meteor_shower.png"
+            }
+        }
+    },
+    "wizardSignatureMeteorShowerRenewingWrath": {
+        "title": "§f[星之祝福]",
+        "description": "§7当流星之怒触发时，有10%的几率不消耗一层效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_meteor_shower.png"
+            }
+        }
+    },
+    "wizardSignatureMeteorShowerRenewingWrath++": {
+        "title": "§f[星之祝福 +]",
+        "description": "§7当流星之怒触发时，有30%的几率不消耗一层效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_meteor_shower.png"
+            }
+        }
+    },
+    "wizardSignatureMeteorShowerRenewingWrath+++": {
+        "title": "§f[星之祝福 ++]",
+        "description": "§7当流星之怒触发时，有50%的几率不消耗一层效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_meteor_shower.png"
+            }
+        }
+    },
+    "wizardSignatureIceComet": {
+        "title": "特殊技能: §6[冰彗星]§7",
+        "description": "§7\n召唤一个冰彗星，对大范围内的敌人造成伤害并减速。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_ice_comet.png"
+            }
+        }
+    },
+    "wizardSignatureIceCometLeap": {
+        "title": "§f[冰之跃进]",
+        "description": "§7施放§6[冰彗星]§7现在会让你向后跳跃并获得短暂的缓降效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_ice_comet.png"
+            }
+        }
+    },
+    "wizardSignatureIceCometVolley": {
+        "title": "§f[冰霜齐射]",
+        "description": "§7施放§6[冰彗星]§7现在会给你6层霜寒齐射效果。\n\n§f(霜寒齐射)§7会让你定期对附近或目标敌人发射寒霜箭。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_ice_comet.png"
+            }
+        }
+    },
+    "wizardSignatureIceCometDamage+": {
+        "title": "§f[冰之强化]§7",
+        "description": "§7§6[冰彗星]§7现在更大并造成更高的伤害和击退效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_ice_comet.png"
+            }
+        }
+    },
+    "wizardSignatureIceCometDamage++": {
+        "title": "§f[冰之强化 +]",
+        "description": "§7§6[冰彗星]§7现在更大并造成更高的伤害和击退效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_ice_comet.png"
+            }
+        }
+    },
+    "wizardSignatureIceCometDamage+++": {
+        "title": "§f[冰之强化 ++]",
+        "description": "§7§6[冰彗星]§7现在更大并造成极高的伤害和击退效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_ice_comet.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischarge": {
+        "title": "特性技能: §6[静电放电] §7",
+        "description": "§7\n释放一个高伤害的电气放电，对你的目标造成虚弱效果。\n \n§a35秒冷却时间 §7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeLightningBall": {
+        "title": "§f [球状闪电]",
+        "description": "§6 [静电放电] §  7不再跳跃，而是召唤一个缓慢移动的闪电球，定期对附近的敌人释放电气。\n \n所有通常会在跳跃时激活的被动技能，现在会在闪电球对敌人释放电气时激活。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_static_discharge_lightning_ball.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeLeap": {
+        "title": "§f[弹跳闪电]",
+        "description": "§7你的 §6[放电]§7 现在可以在附近的敌人之间跳跃。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeLeap++": {
+        "title": "§f[弹跳闪电 +]",
+        "description": "§7你的§6[静电放电]§7在消失之前可以多跳几次。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeLeap+++": {
+        "title": "§f[弹跳闪电 ++]",
+        "description": "§7你的§6[静电放电]§7在消失之前可以跳跃更多次。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeSpeed": {
+        "title": "§f[急速]",
+        "description": "§7每当§6[静电放电]§7跳跃或者施放时，你有5%的几率获得速度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeSpeed++": {
+        "title": "§f[急速 +]",
+        "description": "§7每当§6[静电放电]§7跳跃或者施放时，你有10%的几率获得速度",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeSpeed+++": {
+        "title": "§f[急速 ++]",
+        "description": "§7每当§6[静电放电]§7跳跃或者施放时，你有15%的几率获得速度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_lightning_beam.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeLightningOrb": {
+        "title": "§f[闪电球]",
+        "description": "§7除了获得速度之外，你还有机会召唤一个闪电球，它会在你周围不规则地旋转，对它经过的敌人造成伤害。\n\n对于你附近的每一个闪电球，获得一层灵魂震荡。\n\n§f(灵魂震荡)§7每层可以为你提供+2灵魂和闪电法术强度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_static_discharge_lightning_orb.png"
+            }
+        }
+    },
+    "wizardSignatureStaticDischargeLightningOrbOnHit": {
+        "title": "§f[电极]",
+        "description": "§7你的闪电球命中现在可以触发施法效果，比如法术回响。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_static_discharge_lightning_orb_on_hit.png"
+            }
+        }
+    },
+    "wizardSignatureArcaneBolt": {
+        "title": "特性技能: §6[奥术箭]§7",
+        "description": "§7\n向目标发射一道浓缩的奥术能量箭。\n\n§a35秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_arcane_bolt.png"
+            }
+        }
+    },
+    "wizardSignatureArcaneBoltLesser": {
+        "title": "§f[次级奥数]",
+        "description": "§7你的§6[奥术箭]§7现在在更大的范围内发射多枚次级奥术箭。这些箭移动速度更快，伤害更低。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_arcane_bolt.png"
+            }
+        }
+    },
+    "wizardSignatureArcaneBoltVolley": {
+        "title": "§f[奥术齐射]",
+        "description": "§7施放§6[奥术箭]§7时，你获得10层奥术齐射效果。\n\n§f(奥术齐射)§7使你快速地向目标敌人发射次级奥术箭。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_arcane_bolt.png"
+            }
+        }
+    },
+    "wizardSignatureArcaneBoltGreater": {
+        "title": "§f[高阶奥术]",
+        "description": "§7你现在施放一枚§6[高级奥术箭]§7，造成更高的伤害。\n\n这不影响次级奥术箭。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/wizard_signature_arcane_bolt.png"
+            }
+        }
+    },
+    "shamanSignatureAstralTotem": {
+        "title": "特性技能: §6[星界图腾]§7",
+        "description": "§7召唤一个图腾，定期向附近的敌人投掷元素彗星。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/shaman_signature_astral_totem.png"
+            }
+        }
+    },
+    "shamanSignatureNovaTotem": {
+        "title": "特性技能: §6[新星图腾]§7",
+        "description": "§7召唤一个图腾，定期向附近的敌人释放元素新星。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/shaman_signature_nova_totem.png"
+            }
+        }
+    },
+    "shamanSignatureBoltTotem": {
+        "title": "特性技能: §6[闪电图腾]§7",
+        "description": "§7召唤一个图腾，定期向附近的敌人发射元素闪电。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/shaman_signature_bolt_totem.png"
+            }
+        }
+    },
+    "rogueSignatureEvasion": {
+        "title": "特性技能: §6[闪避]§7",
+        "description": "§7\n你的闪避精通被动效果在8秒内加倍。\n\n§a25秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_evasion.png"
+            }
+        }
+    },
+    "rogueSignatureEvasionFanOfBlades": {
+        "title": "§f[刀刃风暴]",
+        "description": "§7 §6[闪避] §7现在还赋予你10层刀刃风暴效果。\n\n§f(刀刃风暴) §7使你向你面前的敌人投掷匕首。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_evasion_fanofblades.png"
+            }
+        }
+    },
+    "rogueSignatureEvasionFanOfBladesDisenchantment": {
+        "title": "§f[破法者]",
+        "description": "§7你的刀刃风暴现在还使敌人陷入破法状态。\n\n§f(破法者) §7定期剥夺受害者身上的增益效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_evasion_fanofblades.png"
+            }
+        }
+    },
+    "rogueSignatureEvasionFanOfBladesAssault": {
+        "title": "§f[突袭]",
+        "description": "§7你现在获得20层刀刃风暴效果，投掷频率增加，但伤害降低。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_evasion_fanofblades.png"
+            }
+        }
+    },
+    "rogueSignatureEvasionFanOfBladesRenewal": {
+        "title": "§f[刀刃光芒]",
+        "description": " §7杀死敌人时获得两层刀刃风暴效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_evasion_fanofblades.png"
+            }
+        }
+    },
+    "rogueSignatureEvasionFanOfBladesBladestorm": {
+        "title": "§f[剑风]",
+        "description": "§7每击中一个敌人，就获得一层剑风效果，最多20层。\n\n§f(剑风) §7使匕首围绕着你旋转，对附近的敌人造成伤害。\n\n每层剑风都增加其攻击频率，并为你提供1%额外的闪避几率。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_bladestorm.png"
+            }
+        }
+    },
+    "rogueSignatureEvasionFanOfBladesBladestormSiphon": {
+        "title": "§f[刀刃虹吸]",
+        "description": "§7剑风现在有几率在击中时虹吸生命值。\n\n§f(剑刃风暴)§7使你周围旋转飞刀，对附近的敌人造成伤害。\n\n剑刃风暴的每层效果都会增加其攻击频率，并为你提供1%的额外闪避几率。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_bladestorm_siphon.png"
+            }
+        }
+    },
+    "rogueSignaturePreparation": {
+        "title": "特性技能: §6[早有预谋]§7",
+        "description": "§7\n获得隐身和速度3，持续8秒。\n\n§a10秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_preparation.png"
+            }
+        }
+    },
+    "rogueSignaturePreparationShadowstrike": {
+        "title": "§f[影袭]",
+        "description": "§7§6[准备]§7现在会让你以闪电般的速度向前冲刺，对沿途的敌人造成主手武器伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_preparation.png"
+            }
+        }
+    },
+    "rogueSignaturePreparationShadowstrikeVampire": {
+        "title": "§f[吸血鬼]",
+        "description": "§7你从冲刺路径上的敌人身上偷取增益效果，并给他们施加死亡印记。\n\n§f(死亡印记)§7每层效果都会降低受害者的抗性和治疗效果25%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_preparation.png"
+            }
+        }
+    },
+    "rogueSignaturePreparationShadowstrikeShield": {
+        "title": "§f[屏障]",
+        "description": "§7§6[早有预谋]§7现在会为你提供屏障，并清除你身上的任何暴露效果。\n\n§f(屏障)§7你下一次受到的伤害完全无效。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_preparation.png"
+            }
+        }
+    },
+    "rogueSignatureSiphoningStrikes": {
+        "title": "特性技能: §6[虹吸打击]§7",
+        "description": "§7\n获得10层虹吸打击效果。\n\n§f(虹吸打击)§7使你在击中敌人时虹吸生命值并剥夺他们的增益效果。\n\n§a25秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_siphoning_strikes.png"
+            }
+        }
+    },
+    "rogueSignatureSiphoningStrikesMighty": {
+        "title": "§f[神力]",
+        "description": "§7当你获得 §6[虹吸打击]§7时，你还会获得力量效果。\n\n§f(神力)§7每层效果都会增加你25%的攻击伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_siphoning_strikes.png"
+            }
+        }
+    },
+    "rogueSignatureSiphoningStrikesAura": {
+        "title": "§f[虹吸光环]",
+        "description": "§7当你获得§6[虹吸打击]§7时，你也会获得定身光环。\n\n§f(定身光环)§7定期使附近的敌人陷入定身状态。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_siphoning_strikes.png"
+            }
+        }
+    },
+    "rogueSignatureSiphoningStrikesVanish": {
+        "title": "§f[虹吸清算]",
+        "description": "§7你的§6[虹吸打击]§7也会清除你身上的所有暴露层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/rogue_signature_siphoning_strikes.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRain": {
+        "title": "特性技能: §6[箭雨]§7",
+        "description": "§7\n获得一个箭雨层数。\n\n§f(箭雨)§7使你的下一个满蓄力的弓攻击在目标区域召唤一场箭雨。\n\n§a14秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainElemental": {
+        "title": "§f[元素箭雨]",
+        "description": "§7你的§6[箭雨]§7现在具有元素增强效果，并造成额外的元素伤害。\n\n当敌人靠近时，这种效果会减弱。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainElementalArtillery": {
+        "title": "§f[元素箭]",
+        "description": "§7你的§6[箭雨]§7现在会产生额外的元素箭，向附近区域的敌人自动追踪。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain_elemental_artillery.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainEplosive": {
+        "title": "§f[爆炸地雷]",
+        "description": "§7你的§6[箭雨]§7现在会留下近距离爆炸箭。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainVolley+": {
+        "title": "§f[弓箭齐射]",
+        "description": "§7你的§6[箭雨]§7现在会发射一次额外的齐射。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainVolley++": {
+        "title": "§f[弓箭齐射 +]",
+        "description": "§7你的§6[箭雨]§7现在会发射两次额外的齐射。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainVolley+++": {
+        "title": "§f[弓箭齐射 ++]",
+        "description": "§7你的§6[箭雨]§7现在会发射三次额外的齐射。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainRadius+": {
+        "title": "§f[箭雨半径]",
+        "description": "§7你的§6[箭雨]§7现在半径+1。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainRadius++": {
+        "title": "§f[箭雨半径 +]",
+        "description": "§7你的§6[箭雨]§7现在半径+2。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureArrowRainRadius+++": {
+        "title": "§f[箭雨半径 ++]",
+        "description": "§7你的§6[箭雨]§7现在半径+3。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_arrow_rain.png"
+            }
+        }
+    },
+    "rangerSignatureDisengage": {
+        "title": "特性技能: §6[后跳]§7",
+        "description": "§7\n减速附近敌人并向后跳跃。\n\n§a15秒冷却时间 §7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_disengage.png"
+            }
+        }
+    },
+    "rangerSignatureDisengageRecuperate": {
+        "title": "§f[坚固友情]",
+        "description": "§7 §6[后跳] §7现在会治疗所有附近的宠物至满血。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_disengage.png"
+            }
+        }
+    },
+    "rangerSignatureDisengageExploitation": {
+        "title": "§f[定身光环]",
+        "description": "§7 §6[后跳] §7现在会给予所有附近的宠物定身光环，持续一段时间。\n\n§f(定身光环) §7定期使附近的敌人陷入定身状态。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_disengage.png"
+            }
+        }
+    },
+    "rangerSignatureDisengageMarksman": {
+        "title": "§f[神射手]",
+        "description": "§7 §6[后跳] §7现在会给予你一个神射手层数。\n\n§f(神射手) §7使你的下一个满蓄力的远程攻击发射一支神射手箭，造成高额伤害并使目标陷入死亡标记。\n\n§f(死亡标记) §7每层减少受害者25%的抗性和治疗效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_disengage.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrows": {
+        "title": "特性技能:  §6[元素箭] §7",
+        "description": "§7\n获得5层元素箭。\n\n§f(元素箭)§7 使你的下一次完全充能的远程攻击向目标区域的敌人发射几支元素箭。\n\n§a40秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsFrostAttuned": {
+        "title": "§f[冰霜调谐]",
+        "description": "§7你的 §6[元素箭]§7 将始终是冰霜属性。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsFireAttuned": {
+        "title": "§f[火焰调谐]",
+        "description": "§7你的 §6[元素箭]§7 将始终是火焰属性。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsLightningAttuned": {
+        "title": "§f[闪电调谐]",
+        "description": "§7你的 §6[元素箭]§7 将始终是闪电属性。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsRadius+": {
+        "title": "§f[元素半径]",
+        "description": "§7你的§6[元素箭]§7的半径增加了2。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsRadius++": {
+        "title": "§f[元素半径 +]",
+        "description": "§7你的§6[元素箭]§7的半径增加了4。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsRadius+++": {
+        "title": "§f[元素半径 ++]",
+        "description": "§7你的§6[元素箭]§7的半径增加了6。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsStacks+": {
+        "title": "§f[元素叠层]",
+        "description": "§7你获得一个额外的§6[元素箭]§7的层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsStacks++": {
+        "title": "§f[元素叠层 +]",
+        "description": "§7你获得两个额外的§6[元素箭]§7的层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsStacks+++": {
+        "title": "§f[元素叠层 ++]",
+        "description": "§7你获得三个额外的§6[元素箭]§7的层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "rangerSignatureElementalArrowsRenewal": {
+        "title": "§f[元素杀戮]",
+        "description": "§7你有35%的几率在击杀时获得一层§6[元素箭]§7。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/ranger_signature_elemental_arrows.png"
+            }
+        }
+    },
+    "necromancerSignatureEnrage": {
+        "title": "特性技能: §6[激怒]§7",
+        "description": "§7\n使附近的随从陷入狂乱，赋予他们速度，力量和抗性。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/necromancer_signature_enrage.png"
+            }
+        }
+    },
+    "necromancerSignatureSacrifice": {
+        "title": "特性技能: §6[献祭]§77",
+        "description": "§7\n献祭附近的随从，每牺牲一个随从就获得一层力量，急速和抗性。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/necromancer_signature_sacrifice.png"
+            }
+        }
+    },
+    "necromancerSignatureSpectralGrasp": {
+        "title": "特性技能: §6[幽魂之握]§7",
+        "description": "§7\n\n对目标造成伤害并将其拉向你，使其陷入缓慢和挖掘疲劳状态。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/necromancer_signature_spectral_grasp.png"
+            }
+        }
+    },
+    "frostguardSignatureConjuringStrikes": {
+        "title": "特性技能: §6[咒术打击]§7",
+        "description": "§7 \n获得6层咒术打击。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/frostguard_signature_conjuring_strikes.png"
+            }
+        }
+    },
+    "frostguardSignatureFrostNova": {
+        "title": "特性技能: §6[霜之新星]§7",
+        "description": "§7\n\n释放一道霜之新星，对附近的敌人造成伤害并使其减速。\n\n§a30秒冷却时间 §7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/frostguard_signature_frost_nova.png"
+            }
+        }
+    },
+    "frostguardSignatureIceBlock": {
+        "title": "特性技能: §6[寒冰屏障]§7",
+        "description": "§7\n获得寒冰屏障，持续6秒。\n\n§a30秒冷却时间 §7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/frostguard_signature_ice_block.png"
+            }
+        }
+    },
+    "crusaderAegis": {
+        "title": "§7§a[神圣庇护]§7",
+        "description": "§7定期消耗疲惫的层数，以获得神圣保护的层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_aegis.png"
+            }
+        }
+    },
+    "crusaderRetribution": {
+        "title": "§7§a[惩戒]§7",
+        "description": "§7用盾牌格挡时有几率对攻击者施放审判。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_retribution.png"
+            }
+        }
+    },
+    "crusaderExhaustiveRecovery": {
+        "title": "§7§a[疲惫恢复]§7",
+        "description": "§7用盾牌格挡时有几率立即对自己施放快速治疗，并获得几层疲惫。\n\n§f(疲惫) §7每层降低你1%的近战攻击，移动速度和攻击速度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_exhaustive_recovery.png"
+            }
+        }
+    },
+    "crusaderSignatureConsecration": {
+        "title": "特性技能: §6[奉献]§7",
+        "description": "§7\n获得奉献，持续15秒。\n\n§f(奉献) §7神圣化你脚下的土地，对敌人造成伤害，同时治疗盟友。伤害和治疗与治疗法术强度成正比。\n\n§a30秒冷却时间 §7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_consecration.png"
+            }
+        }
+    },
+    "crusaderSignatureConsecrationDuration": {
+        "title": "§f[持久力]",
+        "description": "你的 §6[奉献] §7现在持续更长时间。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_consecration.png"
+            }
+        }
+    },
+    "crusaderSignatureConsecrationWard": {
+        "title": "§f[结界]",
+        "description": "你的 §6[奉献] §7现在可以驱赶不死生物敌人。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_consecration.png"
+            }
+        }
+    },
+    "crusaderSignatureConsecrationTaunt": {
+        "title": "§f[嘲讽]",
+        "description": "你的 §6[奉献] §7现在可以嘲讽受影响的敌人。\n\n§f(嘲讽) §7嘲讽的敌人被迫攻击嘲讽的实体。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_consecration.png"
+            }
+        }
+    },
+    "crusaderSignatureConsecrationMighty": {
+        "title": "§f[神之祝福]",
+        "description": "你的§6[奉献]§7现在会定期给附近的盟友赋予强力。\n\n§f(神之祝福)§7每层提供25%的攻击伤害加成。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_consecration.png"
+            }
+        }
+    },
+    "crusaderSignatureConsecrationSpellforged": {
+        "title": "§f[法术锻造]",
+        "description": "你的§6[奉献]§7现在会定期给附近的盟友赋予法术锻造。\n\n§f(法术锻造)§7每层提供1点法术强度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_consecration.png"
+            }
+        }
+    },
+    "crusaderSignatureSacredOnslaught": {
+        "title": "特性技能: §6[神圣冲锋]§7",
+        "description": "§7\n向前冲锋。如果在冲锋过程中进行格挡，你就会根据你的护甲值造成伤害，并击退敌人。\n\n§a15秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_sacred_onslaught.png"
+            }
+        }
+    },
+    "crusaderSignatureSacredOnslaughtHeal": {
+        "title": "§f[治愈]",
+        "description": "你的§6[神圣冲锋]§7会治疗它经过的盟友，并给予他们神圣保护。\n\n治疗效果根据治疗法术强度而变化",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_sacred_onslaught.png"
+            }
+        }
+    },
+    "crusaderSignatureSacredOnslaughtDefend": {
+        "title": "§f[神圣保护]",
+        "description": "你的§6[神圣冲锋]§7也会给予你一段时间的神圣保护。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_sacred_onslaught.png"
+            }
+        }
+    },
+    "crusaderSignatureSacredOnslaughtMighty": {
+        "title": "§f[冲锋鼓舞]",
+        "description": "你的§6[神圣冲锋]§7也会给予你一段时间的强力。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_sacred_onslaught.png"
+            }
+        }
+    },
+    "crusaderSignatureSacredOnslaughtStun": {
+        "title": "§f[眩晕]",
+        "description": "你的§6[神圣冲锋]§7只要你在前进时保持格挡会眩晕敌人。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_sacred_onslaught.png"
+            }
+        }
+    },
+    "crusaderSignatureHeavensmithsCall": {
+        "title": "Signature Ability: §6[天工之召]§7",
+        "description": "§7\n从天空召唤一个铁砧来压碎你的敌人。\n\n§a55秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_heavensmiths_call.png"
+            }
+        }
+    },
+    "crusaderSignatureHeavensmithsCallTaunt": {
+        "title": "§f[天工嘲讽]",
+        "description": "§6[天工之召]§7现在会嘲讽主要目标。§7\n\n§f(天工嘲讽)§7被嘲讽的敌人被迫攻击嘲讽者。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_heavensmiths_call.png"
+            }
+        }
+    },
+    "crusaderSignatureHeavensmithsCallMark": {
+        "title": "§f[死亡印记]",
+        "description": "§6[天工之召]§7现在会给主要目标施加死亡印记。\n\n§f(死亡印记)§7 每层降低受害者的抗性和治疗效果25%。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_heavensmiths_call.png"
+            }
+        }
+    },
+    "crusaderSignatureHeavensmithsCallEffect": {
+        "title": "§f[神圣裁决]",
+        "description": "§6[天工之召]§7 现在赋予你神圣裁决的持续时间。§7\n\n§f(神圣裁决)§7 周期性地对附近的敌人施放审判。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_heavensmiths_call.png"
+            }
+        }
+    },
+    "crusaderSignatureHeavensmithsCallEffectExhaust": {
+        "title": "§f[耗竭消逝]",
+        "description": "§7由 §6[天工之召]§7 赋予你的神圣裁决现在在触发时清除你身上的耗竭层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_heavensmiths_call.png"
+            }
+        }
+    },
+    "crusaderSignatureHeavensmithsCallEffectMighty": {
+        "title": "§f[天工力量]",
+        "description": "§7由 §6[天工之召]§7 赋予你的神圣裁决现在在触发时赋予你力量层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/crusader_signature_heavensmiths_call.png"
+            }
+        }
+    },
+    "clericAltruism": {
+        "title": "§7§a[利他主义]",
+        "description": "§7当穿戴的护甲点数少于10时，你周期性地生成魔铸层数。\n\n§f(法术锻造)§7 每层提供1点法术强度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_passive_altruism.png"
+            }
+        }
+    },
+    "clericMutualMending": {
+        "title": "§7§a[共生疗愈]",
+        "description": "§7当施放治疗法术时，你有几率同时对自己施放该法术。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_passive_mutual_mending.png"
+            }
+        }
+    },
+    "clericHealingWard": {
+        "title": "§7§a[治疗结界]§7",
+        "description": "§7当施放治疗法术时，为目标赋予屏障。\n\n§f(屏障)§7 你承受的下一次伤害完全无效。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_passive_healing_ward.png"
+            }
+        }
+    },
+    "clericSignatureSacredOrb": {
+        "title": "特性技能: §6[圣光之球]§7",
+        "description": "§7\n释放一个神圣能量球，向前飞行，然后寻找附近的盟友。 当这个能量球与盟友相连时，它会治疗他们，并赋予你们双方生命链接。\n\n§f(生命链接)§7 在持续时间内使受影响的实体的生命值相等。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_sacred_orb.png"
+            }
+        }
+    },
+    "clericSignatureSacredOrbSpeed": {
+        "title": "§f[圣速]",
+        "description": "由你的 §6[圣光之球]§7 赋予的生命链接现在也会提高受益者的攻击速度和移动速度，但会给你施加挖掘疲劳。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_sacred_orb.png"
+            }
+        }
+    },
+    "clericSignatureSacredOrbDebuffs": {
+        "title": "§f[同理心]",
+        "description": "由你的 §6[圣光之球]§7 赋予的生命链接现在也会使受益者身上的减益效果周期性地转移给你。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_sacred_orb.png"
+            }
+        }
+    },
+    "clericSignatureSacredOrbBuffs": {
+        "title": "§f[仁慈]",
+        "description": "由你的 §6[圣光之球]§7 赋予的生命链接现在也会周期性地将你身上的增益效果复制给受益者。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_sacred_orb.png"
+            }
+        }
+    },
+    "clericSignatureDivineIntervention": {
+        "title": "特性技能: §6[神圣干预]§7",
+        "description": "§7\n从天空中召唤一道天界能量，治疗你的目标并赋予他们不死之身。\n\n§f(不死之身)§7 充满天界能量，实体无法被杀死。 然而，如果实体在效果结束时低于60%的生命值，他们将受到致命伤害。\n\n§a45秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_divine_intervention.png"
+            }
+        }
+    },
+    "clericSignatureDivineInterventionFireResistance": {
+        "title": "§f[火焰抗性]",
+        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标火焰抗性。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_divine_intervention.png"
+            }
+        }
+    },
+    "clericSignatureDivineInterventionMight": {
+        "title": "§f[神圣祝福]",
+        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标力量。\n\n§f(力量)§7 每层提供25%的攻击伤害增加。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_divine_intervention.png"
+            }
+        }
+    },
+    "clericSignatureDivineInterventionSpellforged": {
+        "title": "§f[法力锻造]",
+        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标魔铸。\n\n§f(法力锻造)§7 每层提供1点法术强度。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_divine_intervention.png"
+            }
+        }
+    },
+    "clericSignatureAnointWeapon": {
+        "title": "特性技能: §6[神圣武器]§7",
+        "description": "§7\n用神圣之油涂抹你的武器。\n\n§f(神圣武器)§7 使你的攻击造成范围性的神圣伤害，并周期性地治疗附近的盟友。 范围伤害随治疗强度而变化。\n\n§a35秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_anoint_weapon.png"
+            }
+        }
+    },
+    "clericSignatureAnointWeaponResistance": {
+        "title": "§f[抵抗强化]",
+        "description": "§7你的 §6[神圣武器]§7 现在也会在击中时赋予你抵抗。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_anoint_weapon.png"
+            }
+        }
+    },
+    "clericSignatureAnointWeaponUndying": {
+        "title": "§f[不死之身]",
+        "description": "§7当你的 §6[神圣武器]§7 处于激活状态时，当低于30%生命值时受到伤害有几率赋予你不死之身。\n\n§f(不死之身)§7 充满天界能量，实体无法被杀死。 然而，如果实体在效果结束时低于60%的生命值，他们将受到致命伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_anoint_weapon.png"
+            }
+        }
+    },
+    "clericSignatureAnointWeaponCleanse": {
+        "title": "§f[净化]",
+        "description": "§7当你的 §6[神圣武器]§7 处于激活状态时，你周期性地清除自己身上的减益效果。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/cleric_signature_anoint_weapon.png"
+            }
+        }
+    },
+    "berserkerSignatureRampage": {
+        "title": "特性技能: §6[狂暴]§7",
+        "description": "§7\n获得狂暴状态15秒。\n\n§f(狂暴)§7 每次受到伤害时赋予你随机的增益效果。\n\n§a30秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_rampage.png"
+            }
+        }
+    },
+    "berserkerSignatureRampageCharge": {
+        "title": "§f[狂暴冲锋]",
+        "description": "§7§6[狂暴]§7 现在立即赋予你恢复和抗性，并使你向前冲撞，对敌人造成伤害并击退他们。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_rampage_bullrush.png"
+            }
+        }
+    },
+    "berserkerSignatureRampageChargeRelentless": {
+        "title": "§f[无情]",
+        "description": "§7当你的冲锋造成伤害时，你将你身上的疲惫层数转化为力量。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_rampage_bullrush.png"
+            }
+        }
+    },
+    "berserkerSignatureRampageChargeImmob": {
+        "title": "§f[冲锋定身]",
+        "description": "§7被你的冲锋击中的敌人也会被施加定身效果。\n\n§f(冲锋定身) §7 大幅度减缓并在试图移动时对受害者造成伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_rampage_bullrush.png"
+            }
+        }
+    },
+    "berserkerSignatureBloodthirsty": {
+        "title": "特性技能: §6[嗜血]§7",
+        "description": "§7\n获得嗜血状态20秒。\n\n§f(嗜血) §7 每次击败一个敌人时获得相当于你最大生命值25%的生命值。\n\n25秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_bloodthirsty.png"
+            }
+        }
+    },
+    "berserkerSignatureBloodthirstyMighty": {
+        "title": "§f[嗜血力]",
+        "description": "§7§6[嗜血]§7 现在在使用时赋予你力量。\n\n§f(力量)§7 每层提供25%的攻击伤害增加。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_bloodthirsty.png"
+            }
+        }
+    },
+    "berserkerSignatureBloodthirstyTireless": {
+        "title": "§f[孜孜不倦]",
+        "description": "§7当 §6[嗜血]§7 处于激活状态时，你有几率在击中时移除耗竭层数。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_bloodthirsty.png"
+            }
+        }
+    },
+    "berserkerSignatureBloodthirstyTremor": {
+        "title": "§f[嗜血踏击]",
+        "description": "§7当§6[嗜血]§7 处于激活状态时，你有几率在击中时获得震地者效果。\n\n§f(震地者)§7 使你在落地时对周围的敌人造成伤害并击退他们。这个伤害随你的护甲值而变化。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_bloodthirsty.png"
+            }
+        }
+    },
+    "berserkerSignatureBerserking": {
+        "title": "特性技能: §6[狂怒]§7",
+        "description": "§7\n牺牲30%的总生命值。获得狂怒状态，持续时间等于损失的心数。\n\n§f(狂怒) §7 每次击中敌人时赋予你叠加的攻击增益效果。\n\n§a25秒冷却时间§7",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_berserking.png"
+            }
+        }
+    },
+    "berserkerSignatureBerserkingLeap": {
+        "title": "§f[跃击]",
+        "description": "§7§6[狂怒]§7 现在使你执行一个向前的跃击，对着陆点的敌人造成伤害并击退他们。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_berserking_leapslam.png"
+            }
+        }
+    },
+    "berserkerSignatureBerserkingLeapImmob": {
+        "title": "§f[脚踏定身]",
+        "description": "§7跃击现在也会对敌人施加定身效果。\n\n§f(定身)§7 大幅度减缓并在试图移动时对受害者造成伤害。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_berserking_leapslam.png"
+            }
+        }
+    },
+    "berserkerSignatureBerserkingLeapPull": {
+        "title": "§f[脚踏吸引]",
+        "description": "§7跃击现在拉拽附近的敌人，而不是击退他们。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/berserker_signature_berserking_leapslam.png"
+            }
+        }
+    },
+    "portalSapphire": {
+        "title": "§7§6[结点: §f蓝宝石§6]§7",
+        "description": "§7\n解锁同类型的结点，让你更容易地遍历技能树。",
+        "frame": "goal",
+        "icon": {
+            "type": "texture",
+            "data": {
+                "texture": "simplyskills:textures/icons/sapphire_portal.png"
+            }
+        }
+    }
+}
