@@ -6,21 +6,9 @@
 
 |![sections-sheild]|![datapackinfo-sheild]|
 |:----:|:----:|
-|tree|[✅][link-tree]|
-|berserker|[⚪][link-be]|
-|cleric|[⭕][link-cl]|
-|crusader|[⭕][link-cr]|
-|ranger|[⭕][link-ra]|
-|rogue|[⭕][link-ro]|
-|spellblade|[⭕][link-sp]|
-|wizard|[⭕][link-wi]|
-|book-items|[✅][link-bi]|
+|Tree|![✅][link-tree]|
 
-### 我会在即将施工或者汉化完毕的文件夹里放入README文件，
-### 以便更好地检查汉化状态，如若没有，则无施工计划。
-### 无计划的文件可以由任何人认领，在[问题][Issue]中创建一个带有认领文件标签的帖子即可。
-### 点击任意文件状态的emoji符号可以进入其文件夹内哦！
-### ⭕表示未汉化，⚪表示即将施工，✅表示已完成。
+### 全部汉化完成！ 汉化数据包已经可以发布！
 ### 数据包 release [链接][release]
 
 </div>
@@ -48,13 +36,5 @@
 [datapackinfo-sheild]:https://img.shields.io/badge/Translations_Progress-0?logo=Github&label=翻译进度&color=blue
 [sections-sheild]:https://img.shields.io/badge/Files_Name-0?logo=Github&label=文件名称&color=blue
 [link-tree]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/tree
-[link-be]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/berserker
-[link-cl]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/cleric
-[link-cr]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/crusader
-[link-ra]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/ranger
-[link-ro]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/rogue
-[link-sp]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/spellblade
-[link-wi]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/wizard
-[link-bi]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/tree/main/Localization
 [release]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/releases/tag/1.0.0
 [Issue]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/issues
