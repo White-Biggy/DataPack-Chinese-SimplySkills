@@ -6,7 +6,7 @@
 
 |![sections-sheild]|![datapackinfo-sheild]|
 |:----:|:----:|
-|Tree|![✅][link-tree]|
+|Tree|[✅][link-tree]|
 
 ### 全部汉化完成！ 汉化数据包已经可以发布！
 ### 数据包 release [链接][release]
