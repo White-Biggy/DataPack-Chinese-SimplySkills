@@ -11,6 +11,7 @@
 ### 全部汉化完成！ 汉化数据包已经可以发布！
 ### Bug汇报 [链接][Issues]
 ### 数据包 [链接][release]
+[![Page Views Count](https://badges.toozhao.com/badges/01HE8W8FASC75FTQYSB7CX1HT2/green.svg)](https://badges.toozhao.com/stats/01HE8W8FASC75FTQYSB7CX1HT2 "Get your own page views count badge on badges.toozhao.com")
 
 </div>
 
