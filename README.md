@@ -9,7 +9,8 @@
 |Tree|[✅][link-tree]|
 
 ### 全部汉化完成！ 汉化数据包已经可以发布！
-### 数据包 release [链接][release]
+### Bug汇报 [链接][Issues]
+### 数据包 [链接][release]
 
 </div>
 
@@ -36,5 +37,5 @@
 [datapackinfo-sheild]:https://img.shields.io/badge/Translations_Progress-0?logo=Github&label=翻译进度&color=blue
 [sections-sheild]:https://img.shields.io/badge/Files_Name-0?logo=Github&label=文件名称&color=blue
 [link-tree]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/tree
-[release]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/releases/tag/1.0.0
-[Issue]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/issues
+[release]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/releases/tag/1.0.1
+[Issues]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/issues
