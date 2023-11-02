@@ -177,7 +177,7 @@
         ]
     },
     "spell_frost_damage_multi+1%": {
-        "title": "§a+1% §f[x] §7F冰霜法术强度",
+        "title": "§a+1% §f[x] §7冰霜法术强度",
         "icon": {
             "type": "texture",
             "data": {
@@ -844,7 +844,7 @@
     },
     "wayfarerSneak": {
         "title": "§7§a[潜行]§7",
-        "description": "蹲下时获得速度提升。当你处于隐匿状态时潜行，你会获得逐渐增加的力量层数。\n\n§f(力量)§7每层提供25%的攻击伤害增加。",
+        "description": "蹲下时获得速度提升。当你处于隐匿状态时潜行，你会获得逐渐增加的神力层数。\n\n§f(神力)§7每层提供25%的攻击伤害增加。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1134,7 +1134,7 @@
     },
     "initiateHasty": {
         "title": "§7§a[急躁]§7",
-        "description": "§7你的移动速度提高20%，但当你受到伤害时，你会被施加定身效果。\n\n§f(定身)§7 当受害者试图移动时，会大幅降低速度并造成伤害。",
+        "description": "§7你的移动速度提高20%，但当你受到伤害时，你会被施加定身效果。\n\n§f(定身)§7 当实体试图移动时，会大幅降低速度并造成伤害。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1155,7 +1155,7 @@
     },
     "initiatePerilousPrecision": {
         "title": "§7§a[风险]§7",
-        "description": "§7你的法术暴击几率提高5%，但你的最大生命值降低15%。",
+        "description": "§7你的法术暴击几率提高5%，但你的最大红心降低15%。",
 		"frame": "goal",
 		"icon": {
 			"type": "texture",
@@ -1260,7 +1260,7 @@
     },
     "rangerBonded": {
         "title": "§7§a[羁绊]§7",
-        "description": "§7当你的宠物在你附近，并且它们的健康状况比你好时，它们会与你交换健康值。只有当你的宠物的生命值高于30%时，这个效果才会触发。",
+        "description": "§7当宠物红心状态高于30%时，且你的红心低于30%时，它们会与你交换红心。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1279,7 +1279,7 @@
     },
     "rangerTrained": {
         "title": "§7§a[受训]§7",
-        "description": "§7当你的宠物在你附近，并且至少有70%的生命值时，它们会获得力量和速度的提升。",
+        "description": "§7当宠物附近，并且至少有70%的红心时，它们会获得力量和速度的提升。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1336,7 +1336,7 @@
     },
     "warriorHeavyArmorMastery": {
         "title": "§7§a[重甲精通]§7",
-        "description": "§7当你的护甲值高于15时，你有几率在受到伤害时获得力量效果。",
+        "description": "§7当你的护甲值高于15时，你有几率在受到伤害时获得神力效果。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1392,7 +1392,7 @@
         ]
     },
     "warriorGoliath": {
-        "title": "§7§a[巨人]§7",
+        "title": "§7§a[落地冲击]§7",
         "description": "§7当你从高处坠落时，获得震地者效果。\n\n§f(震地者)§7 使你着地时对周围的敌人造成伤害和击退。这个伤害与你的护甲值成正比。",
         "frame": "goal",
         "icon": {
@@ -1411,7 +1411,7 @@
         ]
     },
     "warriorHeavyWeight": {
-        "title": "§7§a[重量级]§7",
+        "title": "§7§a[重量级人物]§7",
         "description": "§7你的震地者效果得到增强，使它们根据你在空中的时间长短造成额外的伤害。",
         "frame": "goal",
         "icon": {
@@ -1450,7 +1450,7 @@
     },
     "warriorDeathDefy": {
         "title": "§7§a[死亡蔑视]§7",
-        "description": "§7当生命值低时，你会根据剩余的生命百分比获得再生和耗竭效果。\n\n§f(耗竭)§7每堆叠一次，你的近战攻击、移动速度和攻击速度都会降低1%。",
+        "description": "§7当红心低时，你会根据剩余的红心百分比获得再生和耗竭效果。\n\n§f(耗竭)§7每堆叠一次，你的近战攻击、移动速度和攻击速度都会降低1%。",
 
 		"frame": "goal",
 		"icon": {
@@ -1469,7 +1469,7 @@
 		]
 	},
     "warriorFrenzy": {
-        "title": "§7§a[耗竭]§7",
+        "title": "§7§a[天生粗笨]§7",
         "description": "§7获得75%的近战伤害增加，但每次击中敌人时，你都会获得一层耗竭效果。\n\n§f(耗竭)§7每堆叠一次，你的近战攻击、移动速度和攻击速度都会降低1%。",
         "frame": "goal",
         "icon": {
@@ -1491,7 +1491,7 @@
     },
     "warriorCarnage": {
         "title": "§7§a[定身]§7",
-        "description": "§7当狂怒或耗竭堆叠达到或超过75层时，获得生命提升和定身光环效果。\n\n§f(定身光环)§7会周期性地使附近的敌人陷入定身状态。\n\n§f(定身)§7大大减慢并在试图移动时对受害者造成伤害。",
+        "description": "§7当狂怒或耗竭堆叠达到或超过75层时，获得红心提升和定身光环效果。\n\n§f(定身光环)§7会周期性地使附近的敌人陷入定身状态。\n\n§f(定身)§7当实体试图移动时，会大幅降低速度并造成伤害。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1510,7 +1510,7 @@
     },
     "warriorTwinstrike": {
         "title": "§7§a[多重打击]§7",
-        "description": "§7你的近战攻击有机会打出两次。 在生命提升效果下，这个机会将翻倍。",
+        "description": "§7你的近战攻击有机会打出两次。 在红心提升效果下，这个机会将翻倍。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1529,7 +1529,7 @@
     },
     "warriorSwordfall": {
         "title": "§7§a[审判]§7",
-        "description": "§7你的近战攻击有机会从天空中召唤一把剑，对你的目标和所有附近的敌人造成伤害。 在力量效果下，这个机会将翻倍。",
+        "description": "§7你的近战攻击有机会从天空中召唤一把剑，对你的目标和所有附近的敌人造成伤害。在神力效果下，这个机会将翻倍。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1547,8 +1547,8 @@
         ]
     },
     "berserkerPath": {
-        "title": "分 支 - §b狂战士§7",
-        "description": "\n§7§a[鲁莽]§7 当你的生命值上升到70%以上时，你会被弱化效果影响。\n\n此外，当你造成或接收伤害时，你会获得一层狂怒效果。\n\n§f(狂怒)§7每层提供0.5%的近战伤害、攻击速度和承受伤害增加，最多可以堆叠100层。 当狂怒堆叠超过25层时，你会迅速失去耗竭的堆叠。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "title": "分 支 - §b狂 战 士§7",
+        "description": "\n§7 §a[鲁莽]§7 当你的红心上升到70%以上时，你会被弱化效果影响。\n\n此外，当你造成或接收伤害时，你会获得一层狂怒效果。\n\n§f(狂怒)§7每层提供0.5%的近战伤害、攻击速度和承受伤害增加，最多可以堆叠100层。 当狂怒堆叠超过25层时，你会迅速失去耗竭的堆叠。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
         "extra_description": "\n§7 §b狂战士§7 ，他们被无尽的毁灭欲望驱使，并且完全无视自身的安全。他们是 §a近战战斗§7 的大师，并且喜欢造成毁灭性的伤害，即使这意味着 §a置自己的生命于险境之中§7 。",
         "frame": "goal",
         "icon": {
@@ -1606,7 +1606,7 @@
     },
     "berserkerSwordMasterySkilled": {
         "title": "§7§a[剑术大师 ++]§7",
-        "description": "§7当你不在双持时，你会获得力量。\n\n§f(力量)§7每层提供25%的攻击伤害增加。",
+        "description": "§7当你单手持剑时，你会获得神力。\n\n§f(神力)§7每层提供25%的攻击伤害增加。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1625,7 +1625,7 @@
     },
     "berserkerAxeMastery": {
         "title": "§7§a[斧类专家]§7",
-        "description": "§7当你在主手持斧时，你会获得力量。",
+        "description": "§7当你在主手持斧时，你会获得力量I。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1644,7 +1644,7 @@
     },
     "berserkerAxeMasteryProficient": {
         "title": "§7§a[斧类专家 +]§7",
-        "description": "§7当你在主手持斧时，你会获得增强的力量I。",
+        "description": "§7当你在主手持斧时，你会获得增强的力量II。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1663,7 +1663,7 @@
     },
     "berserkerAxeMasterySkilled": {
         "title": "§7§a[斧类专家 ++]§7",
-        "description": " §7当你在主手持斧时，你会获得超强的力量II。",
+        "description": " §7当你在主手持斧时，你会获得超强的力量III。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1682,7 +1682,7 @@
     },
     "berserkerIgnorePain": {
         "title": "§7§a[不痛不痒]§7",
-        "description": "§7当你的生命值下降到40%以下时，你会获得抗性。",
+        "description": "§7当你的红心下降到40%以下时，你会获得抵抗I。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1701,7 +1701,7 @@
     },
     "berserkerIgnorePainProficient": {
         "title": "§7§a[不痛不痒 +]§7",
-        "description": "§7当你的生命值下降到40%以下时，你会获得增强的抗性I。",
+        "description": "§7当你的红心值下降到40%以下时，你会获得抵抗抗性II。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1720,7 +1720,7 @@
     },
     "berserkerIgnorePainSkilled": {
         "title": "§7§a[不痛不痒 ++]§7",
-        "description": "§7当你的生命值下降到40%以下时，你会获得超强的抗性II。",
+        "description": "§7当你的红心下降到40%以下时，你会获得抵抗III。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1739,7 +1739,7 @@
     },
     "berserkerRecklessness": {
         "title": "§7§a[鲁莽]§7",
-        "description": "§7当你的生命值上升到70%以上时，你会被弱化效果影响。\n\n此外，当你造成或接收伤害时，你会获得一层狂怒效果。\n\n§f(狂怒)§7每层提供0.5%的近战伤害、攻击速度和承受伤害增加，最多可以堆叠100层。 当狂怒堆叠超过25层时，你会迅速失去耗竭的堆叠。",
+        "description": "§7当你的红心上升到70%以上时，你会被弱化效果影响。\n\n此外，当你造成或接收伤害时，你会获得一层狂怒效果。\n\n§f(狂怒)§7每层提供0.5%的近战伤害、攻击速度和承受伤害增加，最多可以堆叠100层。 当狂怒堆叠超过25层时，你会迅速失去耗竭的堆叠。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1758,7 +1758,7 @@
     },
     "berserkerChallenge": {
         "title": "§7§a[挑战]§7",
-        "description": "§7对每个附近的敌人获得一层急速效果。",
+        "description": "§7击杀敌人所能获得的急速效果额外获得一层。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1795,7 +1795,7 @@
         ]
     },
     "bulwarkPath": {
-        "title": "分 支 - §bBulwark§7",
+        "title": "分 支 - §b堡 垒§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -1889,7 +1889,7 @@
         ]
     },
     "wayfarerSlender": {
-        "title": "§7§a[脆弱]§7",
+        "title": "§7§a[蜗牛外壳]§7",
         "description": "§7当你的护甲值达到或超过15时，你会受到缓慢效果的影响。",
         "frame": "goal",
         "icon": {
@@ -1910,7 +1910,7 @@
     "roguePath": {
         "title": "分 支 - §b盗 贼§7",
         "description": "§7\n\n按住 §f[SHIFT] §7查看更多信息：",
-        "extra_description": "\n§7 §bRogue（盗贼）§7 是 §a隐身§7 和诡计的大师。他们在阴影中生存，利用他们出色的技能保持隐身，并用 §a精确打击§7 捉拿他们的敌人。如果在开阔地被发现，他们完全有能力 §a躲避§7 敌人的攻击，并逃回阴影的安全之中。",
+        "extra_description": "\n§7 §b盗贼§7 是 §a隐身§7 和诡计的大师。他们在阴影中生存，利用他们出色的技能保持隐身，并用 §a精确打击§7 捉拿他们的敌人。如果在开阔地被发现，他们完全有能力 §a躲避§7 敌人的攻击，并逃回阴影的安全之中。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2062,7 +2062,7 @@
     },
     "rogueExploitation": {
         "title": "§7§a[死亡标记]§7",
-        "description": "§7在隐身效果下，你的背部攻击会造成死亡标记。\n\n§f(死亡标记)§7每层减少受害者25%的抗性和治疗效果。",
+        "description": "§7在隐身效果下，你的背部攻击会造成死亡标记。\n\n§f(死亡标记)§7每层减少实体25%的抗性和治疗效果。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2137,7 +2137,7 @@
         ]
     },
     "rogueFleetfooted": {
-        "title": "§7§a[猫步]§7",
+        "title": "§7§a[狡猾]§7",
         "description": "§7当你被强制退出隐身时，你会获得短暂的速度提升。",
         "frame": "goal",
         "icon": {
@@ -2157,7 +2157,7 @@
     },
     "rangerPath": {
         "title": "分 支 - §b猎 人§7",
-        "description": "\n§7§a[脆弱]§7 当你的护甲值达到或超过15时，你会受到缓慢效果的影响。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
+        "description": "\n§7§a[蜗牛外壳]§7 当你的护甲值达到或超过15时，你会受到缓慢效果的影响。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
         "extra_description": "\n§7 §b猎人§7 以其无与伦比的 §a弓箭技巧§7 和将 §a元素魔法§7 注入其远程攻击的独特能力而闻名。他们还与他们的 §a动物伙伴§7 建立了深刻的共生关系，使他们成为战场上令人敬畏的力量。",
         "frame": "goal",
         "icon": {
@@ -2196,7 +2196,7 @@
     },
     "initiateWhisperedWizardry": {
         "title": "§7§a[铸法者]§7",
-        "description": "§7在隐身效果下施放法术时，你会获得几层铸法者效果，持续几秒钟。\n\n§f(铸法者)§7每层提供1点法术强度。",
+        "description": "§7在隐身效果下施放法术时，你会获得几层铸法效果，持续几秒钟。\n\n§f(铸法)§7每层提供1点法术强度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2234,7 +2234,7 @@
     },
     "initiateOverload": {
         "title": "§7§a[超载]§7",
-        "description": "§7施放法术时，你会获得一层超载效果，持续短时间。\n\n§f(超载)§7每层提供75%的法术暴击伤害和10%的法术暴击几率。 当超过5层时，你会超载，对自己和附近的敌人造成大量伤害。\n\n这种伤害是根据你的最大生命值和灵魂法术强度来计算的。",
+        "description": "§7施放法术时，你会获得一层超载效果，持续短时间。\n\n§f(超载)§7每层提供75%的法术暴击伤害和10%的法术暴击几率。 当超过5层时，你会超载，对自己和附近的敌人造成大量伤害。\n\n这种伤害是根据你的最大红心和灵魂法术强度来计算的。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2254,7 +2254,7 @@
     "crusaderPath": {
         "title": "分 支 - §b圣 骑 士§7",
         "description": "§e[需要安装 §nPaladins & Priests（圣骑士和牧师）§r§e 模组]§7\n\n按住 §f[SHIFT] §7查看更多信息：",
-        "extra_description": "\n§7 §bCrusader（十字军）§7 ，通常是那些不满足于仅仅 §a保护他们的盟友§7 的人所选择的。他们还努力成为战场上希望的灯塔。他们将 §a治疗者§7 的热情与 §a战士§7 的力量相结合，使他们在 §a进攻和防守§7 方面都是出色的勇士。",
+        "extra_description": "\n§7 §b圣骑士§7 ，通常是那些不满足于仅仅 §a保护他们的盟友§7 的人所选择的。他们还努力成为战场上希望的灯塔。他们将 §a治疗者§7 的热情与 §a战士§7 的力量相结合，使他们在 §a进攻和防守§7 方面都是出色的勇士。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2293,7 +2293,7 @@
     "spellbladePath": {
         "title": "分 支 - §b魔 法 刀 客§7",
         "description": "\n按住 §f[SHIFT] §7查看更多信息：",
-        "extra_description": "\n§7 §bSpellblade（魔剑士）§7 是一种多才多艺而又强大的战士，他们无缝地将魔法的力量与武斗相结合。他们的标志是将 §a施法§7 和 §a近战攻击§7 融合在一起，使他们成为战场上非凡的力量。",
+        "extra_description": "\n§7 §b魔法刀客§7 是一种多才多艺而又强大的战士，他们无缝地将魔法的力量与武斗相结合。他们的标志是将 §a施法§7 和 §a近战攻击§7 融合在一起，使他们成为战场上非凡的力量。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2312,7 +2312,7 @@
     },
     "spellbladeWeaponExpert": {
         "title": "§7§a[法力祝福]§7",
-        "description": "§7施放法术时，你会获得一层力量效果。偶尔也会获得一层铸法者效果。\n\n§f(力量)§7每层提供25%的攻击伤害增加。\n\n§f(铸法者)§7每层提供1点法术强度。",
+        "description": "§7施放法术时，你会获得一层力量效果。偶尔也会获得一层铸法效果。\n\n§f(神力)§7每层提供25%的攻击伤害增加。\n\n§f(铸法)§7每层提供1点法术强度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2445,7 +2445,7 @@
     },
     "spellbladeSignatureElementalImpact": {
         "title": "特性技能：§6[元素冲击]§7",
-        "description": "\n使你以极大的力量向前冲刺，在移动过程中释放元素爆炸。\n\n§a30秒冷却§7",
+        "description": "\n使尽全力向前冲刺，在移动过程中释放元素爆炸。\n\n§a30秒冷却§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2560,7 +2560,7 @@
     "wizardPath": {
         "title": "分 支 - §b巫 师§7",
         "description": "\n§7§a[虚弱]§7\n当你有10点或以上的护甲时，你会受到缓慢效果。而且，你不能有效地使用超过6点攻击力的武器。§7\n\n按住 §f[SHIFT] §7查看更多信息：",
-        "extra_description": "\n§7§b巫师§7专精是为那些寻求掌握魔法力量的人准备的。他们是无情而破坏性的§a施法者§7，能够向敌人释放灾难性的魔法能量。然而，他们对奥术力量的贪婪使他们§a忽视了自己的肉体形态§7，削弱了他们的防御和物理攻击能力。",
+        "extra_description": "\n§7 §b巫师§7 专精是为那些寻求掌握魔法力量的人准备的。他们是无情而破坏性的§a施法者§7，能够向敌人释放灾难性的魔法能量。然而，他们对奥术力量的贪婪使他们§a忽视了自己的肉体形态§7，削弱了他们的防御和物理攻击能力。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2599,7 +2599,7 @@
     "clericPath": {
         "title": "分 支 - §b牧 师§7",
         "description": "\n§e[需要安装 §n圣骑士与牧师§r§e 模组]§7\n\n按住 §f[SHIFT] §7查看更多信息：",
-        "extra_description": "\n§7选择了§b牧师§7专精的人以他们对保护和培育盟友的坚定承诺而闻名。他们拥有一种独特的结合了§a治疗§7、§a支援§7和能够为他们所保护者§a承担负担§7的能力。",
+        "extra_description": "\n§7选择了 §b牧师§7 专精的人以他们对保护和培育盟友的坚定承诺而闻名。他们拥有一种独特的结合了§a治疗§7、§a支援§7和能够为他们所保护者§a承担负担§7的能力。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2769,7 +2769,7 @@
         ]
     },
     "wizardSignatureIceComet": {
-        "title": "特殊技能: §6[冰彗星]§7",
+        "title": "特性技能: §6[冰彗星]§7",
         "description": "§7\n召唤一个冰彗星，对大范围内的敌人造成伤害并减速。\n\n§a30秒冷却时间§7",
         "frame": "goal",
         "icon": {
@@ -2808,7 +2808,7 @@
     },
     "wizardSignatureIceCometVolley": {
         "title": "§f[冰霜齐射]",
-        "description": "§7施放§6[冰彗星]§7现在会给你6层霜寒齐射效果。\n\n§f(霜寒齐射)§7会让你定期对附近或目标敌人发射寒霜箭。",
+        "description": "§7施放§6[冰彗星]§7现在会给你6层霜寒射弹效果。\n\n§f(霜寒射弹)§7会让你定期对附近或目标敌人发射寒霜箭。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2883,7 +2883,7 @@
         ]
     },
     "wizardSignatureStaticDischarge": {
-        "title": "特性技能: §6[静电放电] §7",
+        "title": "特性技能: §6[静电荷] §7",
         "description": "§7\n释放一个高伤害的电气放电，对你的目标造成虚弱效果。\n \n§a35秒冷却时间 §7",
         "frame": "goal",
         "icon": {
@@ -2903,7 +2903,7 @@
     },
     "wizardSignatureStaticDischargeLightningBall": {
         "title": "§f [球状闪电]",
-        "description": "§6 [静电放电] §  7不再跳跃，而是召唤一个缓慢移动的闪电球，定期对附近的敌人释放电气。\n \n所有通常会在跳跃时激活的被动技能，现在会在闪电球对敌人释放电气时激活。",
+        "description": "§6 [静电荷] §7不再跳跃，而是召唤一个缓慢移动的闪电球，定期对附近的敌人释放电气。\n \n所有通常会在跳跃时激活的被动技能，现在会在闪电球对敌人释放电气时激活。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2922,7 +2922,7 @@
     },
     "wizardSignatureStaticDischargeLeap": {
         "title": "§f[弹跳闪电]",
-        "description": "§7你的 §6[放电]§7 现在可以在附近的敌人之间跳跃。",
+        "description": "§7你的 §6[静电荷]§7 现在可以在附近的敌人之间跳跃。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2941,7 +2941,7 @@
     },
     "wizardSignatureStaticDischargeLeap++": {
         "title": "§f[弹跳闪电 +]",
-        "description": "§7你的§6[静电放电]§7在消失之前可以多跳几次。",
+        "description": "§7你的§6[静电荷]§7在消失之前可以多跳几次。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2960,7 +2960,7 @@
     },
     "wizardSignatureStaticDischargeLeap+++": {
         "title": "§f[弹跳闪电 ++]",
-        "description": "§7你的§6[静电放电]§7在消失之前可以跳跃更多次。",
+        "description": "§7你的§6[静电荷]§7在消失之前可以跳跃更多次。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2979,7 +2979,7 @@
     },
     "wizardSignatureStaticDischargeSpeed": {
         "title": "§f[急速]",
-        "description": "§7每当§6[静电放电]§7跳跃或者施放时，你有5%的几率获得速度。",
+        "description": "§7每当§6[静电荷]§7跳跃或者施放时，你有5%的几率获得速度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -2998,7 +2998,7 @@
     },
     "wizardSignatureStaticDischargeSpeed++": {
         "title": "§f[急速 +]",
-        "description": "§7每当§6[静电放电]§7跳跃或者施放时，你有10%的几率获得速度",
+        "description": "§7每当§6[静电荷]§7跳跃或者施放时，你有10%的几率获得速度",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3017,7 +3017,7 @@
     },
     "wizardSignatureStaticDischargeSpeed+++": {
         "title": "§f[急速 ++]",
-        "description": "§7每当§6[静电放电]§7跳跃或者施放时，你有15%的几率获得速度。",
+        "description": "§7每当§6[静电荷]§7跳跃或者施放时，你有15%的几率获得速度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3112,7 +3112,7 @@
     },
     "wizardSignatureArcaneBoltVolley": {
         "title": "§f[奥术齐射]",
-        "description": "§7施放§6[奥术箭]§7时，你获得10层奥术齐射效果。\n\n§f(奥术齐射)§7使你快速地向目标敌人发射次级奥术箭。",
+        "description": "§7施放§6[奥术箭]§7时，你获得10层奥术射弹效果。\n\n§f(奥术射弹)§7使你快速地向目标敌人发射次级奥术箭。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3245,7 +3245,7 @@
     },
     "rogueSignatureEvasionFanOfBladesDisenchantment": {
         "title": "§f[破法者]",
-        "description": "§7你的刀刃风暴现在还使敌人陷入破法状态。\n\n§f(破法者) §7定期剥夺受害者身上的增益效果。",
+        "description": "§7你的刀刃风暴现在还使敌人陷入剥夺状态。\n\n§f(剥夺) §7定期剥夺实体身上的增益效果。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3321,7 +3321,7 @@
     },
     "rogueSignatureEvasionFanOfBladesBladestormSiphon": {
         "title": "§f[刀刃虹吸]",
-        "description": "§7剑风现在有几率在击中时虹吸生命值。\n\n§f(剑刃风暴)§7使你周围旋转飞刀，对附近的敌人造成伤害。\n\n剑刃风暴的每层效果都会增加其攻击频率，并为你提供1%的额外闪避几率。",
+        "description": "§7剑风现在有几率在击中时虹吸红心。\n\n§f(剑刃风暴)§7使你周围旋转飞刀，对附近的敌人造成伤害。\n\n剑刃风暴的每层效果都会增加其攻击频率，并为你提供1%的额外闪避几率。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3378,7 +3378,7 @@
     },
     "rogueSignaturePreparationShadowstrikeVampire": {
         "title": "§f[吸血鬼]",
-        "description": "§7你从冲刺路径上的敌人身上偷取增益效果，并给他们施加死亡印记。\n\n§f(死亡印记)§7每层效果都会降低受害者的抗性和治疗效果25%。",
+        "description": "§7你从冲刺路径上的敌人身上偷取增益效果，并给他们施加死亡印记。\n\n§f(死亡印记)§7每层效果都会降低实体的抗性和治疗效果25%。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3416,7 +3416,7 @@
     },
     "rogueSignatureSiphoningStrikes": {
         "title": "特性技能: §6[虹吸打击]§7",
-        "description": "§7\n获得10层虹吸打击效果。\n\n§f(虹吸打击)§7使你在击中敌人时虹吸生命值并剥夺他们的增益效果。\n\n§a25秒冷却时间§7",
+        "description": "§7\n获得10层虹吸打击效果。\n\n§f(虹吸打击)§7使你在击中敌人时虹吸红心并剥夺他们的增益效果。\n\n§a25秒冷却时间§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3434,8 +3434,8 @@
         ]
     },
     "rogueSignatureSiphoningStrikesMighty": {
-        "title": "§f[神力]",
-        "description": "§7当你获得 §6[虹吸打击]§7时，你还会获得力量效果。\n\n§f(神力)§7每层效果都会增加你25%的攻击伤害。",
+        "title": "§f[虹吸赋能]",
+        "description": "§7当你获得 §6[虹吸打击]§7时，你还会获得神力效果。\n\n§f(神力)§7每层效果都会增加你25%的攻击伤害。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -3739,7 +3739,7 @@
     },
     "rangerSignatureDisengageMarksman": {
         "title": "§f[神射手]",
-        "description": "§7 §6[后跳] §7现在会给予你一个神射手层数。\n\n§f(神射手) §7使你的下一个满蓄力的远程攻击发射一支神射手箭，造成高额伤害并使目标陷入死亡标记。\n\n§f(死亡标记) §7每层减少受害者25%的抗性和治疗效果。",
+        "description": "§7 §6[后跳] §7现在会给予你一个神射手层数。\n\n§f(神射手) §7使你的下一个满蓄力的远程攻击发射一支神射手箭，造成高额伤害并使目标陷入死亡标记。\n\n§f(死亡标记) §7每层减少实体25%的抗性和治疗效果。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4195,7 +4195,7 @@
     },
     "crusaderSignatureConsecrationTaunt": {
         "title": "§f[嘲讽]",
-        "description": "你的 §6[奉献] §7现在可以嘲讽受影响的敌人。\n\n§f(嘲讽) §7嘲讽的敌人被迫攻击嘲讽的实体。",
+        "description": "你的 §6[奉献] §7现在可以嘲讽受影响的敌人。\n\n§f(嘲讽) §7被嘲讽的敌人被迫攻击嘲讽者。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4233,7 +4233,7 @@
     },
     "crusaderSignatureConsecrationSpellforged": {
         "title": "§f[法术锻造]",
-        "description": "你的§6[奉献]§7现在会定期给附近的盟友赋予法术锻造。\n\n§f(法术锻造)§7每层提供1点法术强度。",
+        "description": "你的§6[奉献]§7现在会定期给附近的盟友赋予铸法效果。\n\n§f(铸法)§7每层提供1点法术强度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4251,7 +4251,7 @@
         ]
     },
     "crusaderSignatureSacredOnslaught": {
-        "title": "特性技能: §6[神圣冲锋]§7",
+        "title": "特性技能: §6[神圣冲击]§7",
         "description": "§7\n向前冲锋。如果在冲锋过程中进行格挡，你就会根据你的护甲值造成伤害，并击退敌人。\n\n§a15秒冷却时间§7",
         "frame": "goal",
         "icon": {
@@ -4271,7 +4271,7 @@
     },
     "crusaderSignatureSacredOnslaughtHeal": {
         "title": "§f[治愈]",
-        "description": "你的§6[神圣冲锋]§7会治疗它经过的盟友，并给予他们神圣保护。\n\n治疗效果根据治疗法术强度而变化",
+        "description": "你的§6[神圣冲击]§7会治疗它经过的盟友，并给予他们神圣保护。\n\n治疗效果根据治疗法术强度而变化",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4290,7 +4290,7 @@
     },
     "crusaderSignatureSacredOnslaughtDefend": {
         "title": "§f[神圣保护]",
-        "description": "你的§6[神圣冲锋]§7也会给予你一段时间的神圣保护。",
+        "description": "你的§6[神圣冲击]§7也会给予你一段时间的神圣保护。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4309,7 +4309,7 @@
     },
     "crusaderSignatureSacredOnslaughtMighty": {
         "title": "§f[冲锋鼓舞]",
-        "description": "你的§6[神圣冲锋]§7也会给予你一段时间的强力。",
+        "description": "你的§6[神圣冲击]§7也会给予你一段时间的强力。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4328,7 +4328,7 @@
     },
     "crusaderSignatureSacredOnslaughtStun": {
         "title": "§f[眩晕]",
-        "description": "你的§6[神圣冲锋]§7只要你在前进时保持格挡会眩晕敌人。",
+        "description": "你的§6[神圣冲击]§7只要你在前进时保持格挡会眩晕敌人。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4346,7 +4346,7 @@
         ]
     },
     "crusaderSignatureHeavensmithsCall": {
-        "title": "Signature Ability: §6[天工之召]§7",
+        "title": "Signature Ability: §6[神圣之召]§7",
         "description": "§7\n从天空召唤一个铁砧来压碎你的敌人。\n\n§a55秒冷却时间§7",
         "frame": "goal",
         "icon": {
@@ -4365,8 +4365,8 @@
         ]
     },
     "crusaderSignatureHeavensmithsCallTaunt": {
-        "title": "§f[天工嘲讽]",
-        "description": "§6[天工之召]§7现在会嘲讽主要目标。§7\n\n§f(天工嘲讽)§7被嘲讽的敌人被迫攻击嘲讽者。",
+        "title": "§f[神圣讥讽]",
+        "description": "§6[神圣之召]§7现在会嘲讽主要目标。§7\n\n§f(嘲讽)§7被嘲讽的敌人被迫攻击嘲讽者。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4384,8 +4384,8 @@
         ]
     },
     "crusaderSignatureHeavensmithsCallMark": {
-        "title": "§f[死亡印记]",
-        "description": "§6[天工之召]§7现在会给主要目标施加死亡印记。\n\n§f(死亡印记)§7 每层降低受害者的抗性和治疗效果25%。",
+        "title": "§f[神圣印记]",
+        "description": "§6[神圣之召]§7现在会给主要目标施加死亡印记。\n\n§f(死亡印记)§7 每层降低实体的抗性和治疗效果25%。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4403,8 +4403,8 @@
         ]
     },
     "crusaderSignatureHeavensmithsCallEffect": {
-        "title": "§f[神圣裁决]",
-        "description": "§6[天工之召]§7 现在赋予你神圣裁决的持续时间。§7\n\n§f(神圣裁决)§7 周期性地对附近的敌人施放审判。",
+        "title": "§f[神圣之召]",
+        "description": "§6[神圣之召]§7 现在赋予你神圣裁决的持续时间。§7\n\n§f(神圣裁决)§7 周期性地对附近的敌人施放审判。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4422,8 +4422,8 @@
         ]
     },
     "crusaderSignatureHeavensmithsCallEffectExhaust": {
-        "title": "§f[耗竭消逝]",
-        "description": "§7由 §6[天工之召]§7 赋予你的神圣裁决现在在触发时清除你身上的耗竭层数。",
+        "title": "§f[神圣滋养]",
+        "description": "§7由 §6[神圣之召]§7 赋予你的神圣裁决现在在触发时清除你身上的耗竭层数。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4441,8 +4441,8 @@
         ]
     },
     "crusaderSignatureHeavensmithsCallEffectMighty": {
-        "title": "§f[天工力量]",
-        "description": "§7由 §6[天工之召]§7 赋予你的神圣裁决现在在触发时赋予你力量层数。",
+        "title": "§f[神圣赋能]",
+        "description": "§7由 §6[神圣之召]§7 赋予你的神圣裁决现在在触发时赋予你神力层数。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4461,7 +4461,7 @@
     },
     "clericAltruism": {
         "title": "§7§a[利他主义]",
-        "description": "§7当穿戴的护甲点数少于10时，你周期性地生成魔铸层数。\n\n§f(法术锻造)§7 每层提供1点法术强度。",
+        "description": "§7当穿戴的护甲点数少于10时，你周期性地生成铸法层数。\n\n§f(铸法)§7 每层提供1点法术强度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4518,7 +4518,7 @@
     },
     "clericSignatureSacredOrb": {
         "title": "特性技能: §6[圣光之球]§7",
-        "description": "§7\n释放一个神圣能量球，向前飞行，然后寻找附近的盟友。 当这个能量球与盟友相连时，它会治疗他们，并赋予你们双方生命链接。\n\n§f(生命链接)§7 在持续时间内使受影响的实体的生命值相等。\n\n§a30秒冷却时间§7",
+        "description": "§7\n释放一个神圣能量球，向前飞行，然后寻找附近的盟友。 当这个能量球与盟友相连时，它会治疗他们，并赋予你们双方生命链接。\n\n§f(生命链接)§7 在持续时间内使受影响的实体的红心相等。\n\n§a30秒冷却时间§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4594,7 +4594,7 @@
     },
     "clericSignatureDivineIntervention": {
         "title": "特性技能: §6[神圣干预]§7",
-        "description": "§7\n从天空中召唤一道天界能量，治疗你的目标并赋予他们不死之身。\n\n§f(不死之身)§7 充满天界能量，实体无法被杀死。 然而，如果实体在效果结束时低于60%的生命值，他们将受到致命伤害。\n\n§a45秒冷却时间§7",
+        "description": "§7\n从天空中召唤一道天界能量，治疗你的目标并赋予他们不死之身。\n\n§f(不死之身)§7 充满天界能量，实体无法被杀死。 然而，如果实体在效果结束时低于60%的红心，他们将受到致命伤害。\n\n§a45秒冷却时间§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4612,7 +4612,7 @@
         ]
     },
     "clericSignatureDivineInterventionFireResistance": {
-        "title": "§f[火焰抗性]",
+        "title": "§f[神火附身]",
         "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标火焰抗性。",
         "frame": "goal",
         "icon": {
@@ -4632,7 +4632,7 @@
     },
     "clericSignatureDivineInterventionMight": {
         "title": "§f[神圣祝福]",
-        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标力量。\n\n§f(力量)§7 每层提供25%的攻击伤害增加。",
+        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标神力。\n\n§f(神力)§7 每层提供25%的攻击伤害增加。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4650,8 +4650,8 @@
         ]
     },
     "clericSignatureDivineInterventionSpellforged": {
-        "title": "§f[法力锻造]",
-        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标魔铸。\n\n§f(法力锻造)§7 每层提供1点法术强度。",
+        "title": "§f[神圣铸法]",
+        "description": "§7你的 §6[神圣干预]§7 也会在持续时间内赋予目标铸法。\n\n§f(铸法)§7 每层提供1点法术强度。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4708,7 +4708,7 @@
     },
     "clericSignatureAnointWeaponUndying": {
         "title": "§f[不死之身]",
-        "description": "§7当你的 §6[神圣武器]§7 处于激活状态时，当低于30%生命值时受到伤害有几率赋予你不死之身。\n\n§f(不死之身)§7 充满天界能量，实体无法被杀死。 然而，如果实体在效果结束时低于60%的生命值，他们将受到致命伤害。",
+        "description": "§7当你的 §6[神圣武器]§7 处于激活状态时，当低于30%红心时受到伤害有几率赋予你不死之身。\n\n§f(不死之身)§7 充满天界能量，实体无法被杀死。 然而，如果实体在效果结束时低于60%的红心，他们将受到致命伤害。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4784,7 +4784,7 @@
     },
     "berserkerSignatureRampageChargeRelentless": {
         "title": "§f[无情]",
-        "description": "§7当你的冲锋造成伤害时，你将你身上的疲惫层数转化为力量。",
+        "description": "§7当你的冲锋造成伤害时，你将你身上的疲惫层数转化为神力。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4803,7 +4803,7 @@
     },
     "berserkerSignatureRampageChargeImmob": {
         "title": "§f[冲锋定身]",
-        "description": "§7被你的冲锋击中的敌人也会被施加定身效果。\n\n§f(冲锋定身) §7 大幅度减缓并在试图移动时对受害者造成伤害。",
+        "description": "§7被你的冲锋击中的敌人也会被施加定身效果。\n\n§f(定身) §7 当实体试图移动时，会大幅降低速度并造成伤害。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4822,7 +4822,7 @@
     },
     "berserkerSignatureBloodthirsty": {
         "title": "特性技能: §6[嗜血]§7",
-        "description": "§7\n获得嗜血状态20秒。\n\n§f(嗜血) §7 每次击败一个敌人时获得相当于你最大生命值25%的生命值。\n\n25秒冷却时间§7",
+        "description": "§7\n获得嗜血状态20秒。\n\n§f(嗜血) §7 每次击败一个敌人时获得相当于你最大红心25%的红心。\n\n25秒冷却时间§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4841,7 +4841,7 @@
     },
     "berserkerSignatureBloodthirstyMighty": {
         "title": "§f[嗜血力]",
-        "description": "§7§6[嗜血]§7 现在在使用时赋予你力量。\n\n§f(力量)§7 每层提供25%的攻击伤害增加。",
+        "description": "§7§6[嗜血]§7 现在在使用时赋予你神力。\n\n§f(神力)§7 每层提供25%的攻击伤害增加。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4897,8 +4897,8 @@
         ]
     },
     "berserkerSignatureBerserking": {
-        "title": "特性技能: §6[狂怒]§7",
-        "description": "§7\n牺牲30%的总生命值。获得狂怒状态，持续时间等于损失的心数。\n\n§f(狂怒) §7 每次击中敌人时赋予你叠加的攻击增益效果。\n\n§a25秒冷却时间§7",
+        "title": "特性技能: §6[自我牺牲]§7",
+        "description": "§7\n牺牲30%的总红心。获得索取状态，持续时间等于损失的红心数。\n\n§f(索取) §7 每次击中敌人时赋予你叠加的攻击增益效果。\n\n§a25秒冷却时间§7",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4917,7 +4917,7 @@
     },
     "berserkerSignatureBerserkingLeap": {
         "title": "§f[跃击]",
-        "description": "§7§6[狂怒]§7 现在使你执行一个向前的跃击，对着陆点的敌人造成伤害并击退他们。",
+        "description": "§7§6[自我牺牲]§7 现在使你执行一个向前的跃击，对着陆点的敌人造成伤害并击退他们。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4935,8 +4935,8 @@
         ]
     },
     "berserkerSignatureBerserkingLeapImmob": {
-        "title": "§f[脚踏定身]",
-        "description": "§7跃击现在也会对敌人施加定身效果。\n\n§f(定身)§7 大幅度减缓并在试图移动时对受害者造成伤害。",
+        "title": "§f[跃击定力]",
+        "description": "§7跃击现在也会对敌人施加定身效果。\n\n§f(定身)§7 当实体试图移动时，会大幅降低速度并造成伤害。",
         "frame": "goal",
         "icon": {
             "type": "texture",
@@ -4954,7 +4954,7 @@
         ]
     },
     "berserkerSignatureBerserkingLeapPull": {
-        "title": "§f[脚踏吸引]",
+        "title": "§f[跃击引力]",
         "description": "§7跃击现在拉拽附近的敌人，而不是击退他们。",
         "frame": "goal",
         "icon": {
@@ -4973,7 +4973,7 @@
         ]
     },
     "portalSapphire": {
-        "title": "§7§6[结点: §f蓝宝石§6]§7",
+        "title": "§7§6[结 点 : §f蓝 宝 石§6]§7",
         "description": "§7\n解锁同类型的结点，让你更容易地遍历技能树。",
         "frame": "goal",
         "icon": {
