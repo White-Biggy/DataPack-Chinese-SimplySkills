@@ -6,7 +6,7 @@
 
 |![sections-sheild]|![datapackinfo-sheild]|
 |:----:|:----:|
-|zh_cn.json|[✅][link-zh_cn.json]|
+|zh_cn.json|[✅][link-Localization/zh_cn.json]|
 
 ### 全部汉化完成！ 汉化数据包已经可以发布！
 ### Bug汇报 [链接][Issues]
