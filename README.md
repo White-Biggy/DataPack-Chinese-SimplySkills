@@ -1,5 +1,5 @@
-# Simply Skill 的中文数据包库
-### 该数据包需要 Simply Skills 模组，包含模组的技能数据和中文汉化。
+# Simply Skill 的中文库
+### 该文件需要 Simply Skills 模组，汉化已跟进最新版本。
 
 ****
 <div align="center">
@@ -8,7 +8,7 @@
 |:----:|:----:|
 |zh_cn.json|[✅][link-zh_cn.json]|
 
-### 全部汉化完成！ 汉化数据包已经可以发布！
+### 全部汉化完成！ 汉化正在等待官方合并！
 ### Bug汇报 [链接][Issues]
 ### 数据包已经不再是必需品！最新版本仅需zh_cn.json文件
 [![Page Views Count](https://badges.toozhao.com/badges/01HE8W8FASC75FTQYSB7CX1HT2/green.svg)](https://badges.toozhao.com/stats/01HE8W8FASC75FTQYSB7CX1HT2 "Get your own page views count badge on badges.toozhao.com")
