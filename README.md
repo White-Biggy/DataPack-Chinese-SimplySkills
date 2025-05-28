@@ -6,7 +6,7 @@
 
 |![sections-sheild]|![datapackinfo-sheild]|
 |:----:|:----:|
-|zh_cn.json|[✅][link-Localization/zh_cn.json]|
+|zh_cn.json|[✅][link-zh_cn.json]|
 
 ### 全部汉化完成！ 汉化数据包已经可以发布！
 ### Bug汇报 [链接][Issues]
@@ -37,6 +37,6 @@
 [Curseforge]:https://www.curseforge.com/minecraft/mc-mods/simply-skills
 [datapackinfo-sheild]:https://img.shields.io/badge/Translations_Progress-0?logo=Github&label=翻译进度&color=blue
 [sections-sheild]:https://img.shields.io/badge/Files_Name-0?logo=Github&label=文件名称&color=blue
-[link-tree]:https://github.com/White-Biggy/Data-Pack-Translation-Lab/blob/main/simplyskillschinese/data/simplyskills/puffish_skills/categories/tree
+[link-zh_cn.json]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/blob/SimplySkills_ChineseDataPack/Localization/zh_cn.json
 [release]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/releases/tag/1.0.1
 [Issues]:https://github.com/White-Biggy/DataPack-Chinese-SimplySkills/issues
